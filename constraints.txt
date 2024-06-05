@@ -1,0 +1,2819 @@
+# Constraints automatically generated from PyPA advisory database.
+# See: https://github.com/pypa/advisory-database
+
+# Based on: PYSEC-2021-335
+# Source: https://github.com/pypa/advisory-database/accesscontrol/PYSEC-2021-335.yaml
+accesscontrol >= 5.2
+
+# Based on: PYSEC-2022-182
+# Source: https://github.com/pypa/advisory-database/admesh/PYSEC-2022-182.yaml
+admesh >= 0.98.5
+
+# Based on: PYSEC-2023-1
+# Source: https://github.com/pypa/advisory-database/adyen/PYSEC-2023-1.yaml
+adyen >= 7.1.0
+
+# Based on: PYSEC-2021-839
+# Source: https://github.com/pypa/advisory-database/aim/PYSEC-2021-839.yaml
+aim >= 3.1.0
+
+# Based on: PYSEC-2024-24
+# Source: https://github.com/pypa/advisory-database/aiohttp/PYSEC-2024-24.yaml
+aiohttp >= 3.9.2
+
+# Based on: PYSEC-2018-35
+# Source: https://github.com/pypa/advisory-database/aiohttp-session/PYSEC-2018-35.yaml
+aiohttp-session >= 2.7.0
+
+# Based on: PYSEC-2019-1
+# Source: https://github.com/pypa/advisory-database/aioxmpp/PYSEC-2019-1.yaml
+aioxmpp >= 0.10.3
+
+# Based on: PYSEC-2014-99
+# Source: https://github.com/pypa/advisory-database/ajenti/PYSEC-2014-99.yaml
+ajenti >= 1.2.21.7
+
+# No safe versions exist for ajenti-panel!
+# See: https://github.com/pypa/advisory-database/ajenti-panel
+ajenti-panel < 0.0.0
+
+# Based on: PYSEC-2020-159
+# Source: https://github.com/pypa/advisory-database/alerta-server/PYSEC-2020-159.yaml
+alerta-server >= 8.1.0
+
+# Based on: PYSEC-2021-126
+# Source: https://github.com/pypa/advisory-database/ansible/PYSEC-2021-126.yaml
+ansible >= 3.0.0
+
+# Based on: PYSEC-2024-36
+# Source: https://github.com/pypa/advisory-database/ansible-core/PYSEC-2024-36.yaml
+ansible-core >= 2.16.3
+
+# Based on: PYSEC-2022-253
+# Source: https://github.com/pypa/advisory-database/ansible-runner/PYSEC-2022-253.yaml
+ansible-runner >= 2.1.0
+
+# Based on: PYSEC-2017-5
+# Source: https://github.com/pypa/advisory-database/ansible-vault/PYSEC-2017-5.yaml
+ansible-vault >= 1.0.5
+
+# Based on: PYSEC-2021-840
+# Source: https://github.com/pypa/advisory-database/antilles-tools/PYSEC-2021-840.yaml
+antilles-tools >= 1.0.1
+
+# Based on: PYSEC-2024-46
+# Source: https://github.com/pypa/advisory-database/apache-airflow/PYSEC-2024-46.yaml
+apache-airflow >= 2.8.3rc1
+
+# Based on: PYSEC-2023-156
+# Source: https://github.com/pypa/advisory-database/apache-airflow-providers-apache-spark/PYSEC-2023-156.yaml
+apache-airflow-providers-apache-spark >= 4.1.3
+
+# No safe versions exist for apache-atlas!
+# See: https://github.com/pypa/advisory-database/apache-atlas
+apache-atlas < 0.0.0
+
+# Based on: PYSEC-2022-43060
+# Source: https://github.com/pypa/advisory-database/apache-bookkeeper-client/PYSEC-2022-43060.yaml
+apache-bookkeeper-client >= 4.14.6
+
+# Based on: PYSEC-2023-4
+# Source: https://github.com/pypa/advisory-database/apache-dolphinscheduler/PYSEC-2023-4.yaml
+apache-dolphinscheduler >= 3.0.2
+
+# Based on: PYSEC-2024-11
+# Source: https://github.com/pypa/advisory-database/apache-iotdb/PYSEC-2024-11.yaml
+apache-iotdb >= 1.3.0
+
+# Based on: PYSEC-2014-97
+# Source: https://github.com/pypa/advisory-database/apache-libcloud/PYSEC-2014-97.yaml
+apache-libcloud >= 0.13.3
+
+# No safe versions exist for apache-skywalking!
+# See: https://github.com/pypa/advisory-database/apache-skywalking
+apache-skywalking < 0.0.0
+
+# Based on: PYSEC-2023-240
+# Source: https://github.com/pypa/advisory-database/apache-submarine/PYSEC-2023-240.yaml
+apache-submarine >= 0.8.0
+
+# Based on: PYSEC-2022-188
+# Source: https://github.com/pypa/advisory-database/apache-superset/PYSEC-2022-188.yaml
+apache-superset >= 1.4.2
+
+# Based on: PYSEC-2021-327
+# Source: https://github.com/pypa/advisory-database/apprise/PYSEC-2021-327.yaml
+apprise >= 0.9.5.1
+
+# Based on: PYSEC-2024-2
+# Source: https://github.com/pypa/advisory-database/appwrite/PYSEC-2024-2.yaml
+appwrite >= 3.0.0
+
+# Based on: PYSEC-2022-42985
+# Source: https://github.com/pypa/advisory-database/arches/PYSEC-2022-42985.yaml
+arches >= 6.1.2
+
+# Based on: PYSEC-2023-229
+# Source: https://github.com/pypa/advisory-database/archivebox/PYSEC-2023-229.yaml
+archivebox >= 0.7.0
+
+# Based on: PYSEC-2022-161
+# Source: https://github.com/pypa/advisory-database/archivy/PYSEC-2022-161.yaml
+archivy >= 1.7.0
+
+# Based on: PYSEC-2019-144
+# Source: https://github.com/pypa/advisory-database/arrayfire/PYSEC-2019-144.yaml
+arrayfire >= 3.6.0
+
+# Based on: PYSEC-2021-860
+# Source: https://github.com/pypa/advisory-database/asterix-decoder/PYSEC-2021-860.yaml
+asterix-decoder >= 0.7.2
+
+# Based on: PYSEC-2020-24
+# Source: https://github.com/pypa/advisory-database/asyncpg/PYSEC-2020-24.yaml
+asyncpg >= 0.21.0
+
+# Based on: PYSEC-2023-237
+# Source: https://github.com/pypa/advisory-database/asyncssh/PYSEC-2023-237.yaml
+asyncssh >= 2.14.1
+
+# Based on: PYSEC-2023-189
+# Source: https://github.com/pypa/advisory-database/asyncua/PYSEC-2023-189.yaml
+asyncua >= 0.9.96
+
+# Based on: PYSEC-2017-6
+# Source: https://github.com/pypa/advisory-database/attic/PYSEC-2017-6.yaml
+attic >= 0.15
+
+# Based on: PYSEC-2019-162
+# Source: https://github.com/pypa/advisory-database/aubio/PYSEC-2019-162.yaml
+aubio >= 0.4.9
+
+# Based on: PYSEC-2020-25
+# Source: https://github.com/pypa/advisory-database/autobahn/PYSEC-2020-25.yaml
+autobahn >= 20.12.3
+
+# Based on: PYSEC-2023-188
+# Source: https://github.com/pypa/advisory-database/avro/PYSEC-2023-188.yaml
+avro >= 1.11.3
+
+# Based on: PYSEC-2020-261
+# Source: https://github.com/pypa/advisory-database/aws-encryption-sdk/PYSEC-2020-261.yaml
+aws-encryption-sdk >= 2.0.0
+
+# Based on: PYSEC-2021-864
+# Source: https://github.com/pypa/advisory-database/awsiotsdk/PYSEC-2021-864.yaml
+awsiotsdk >= 1.7.0
+
+# Based on: PYSEC-2022-32
+# Source: https://github.com/pypa/advisory-database/b2/PYSEC-2022-32.yaml
+b2 >= 3.2.1
+
+# Based on: PYSEC-2022-33
+# Source: https://github.com/pypa/advisory-database/b2sdk/PYSEC-2022-33.yaml
+b2sdk >= 1.14.1
+
+# Based on: PYSEC-2021-421
+# Source: https://github.com/pypa/advisory-database/babel/PYSEC-2021-421.yaml
+babel >= 2.9.1
+
+# Based on: PYSEC-2012-1
+# Source: https://github.com/pypa/advisory-database/beaker/PYSEC-2012-1.yaml
+beaker >= 1.6.5.post1
+
+# Based on: PYSEC-2022-214
+# Source: https://github.com/pypa/advisory-database/beginner/PYSEC-2022-214.yaml
+beginner >= 0.0.5
+
+# Based on: PYSEC-2021-116
+# Source: https://github.com/pypa/advisory-database/bikeshed/PYSEC-2021-116.yaml
+bikeshed >= 3.0.0
+
+# Based on: PYSEC-2021-371
+# Source: https://github.com/pypa/advisory-database/binderhub/PYSEC-2021-371.yaml
+binderhub >= 0.2.0-n653
+
+# Based on: PYSEC-2024-48
+# Source: https://github.com/pypa/advisory-database/black/PYSEC-2024-48.yaml
+black >= 24.3.0
+
+# Based on: PYSEC-2020-26
+# Source: https://github.com/pypa/advisory-database/blackduck/PYSEC-2020-26.yaml
+blackduck >= 0.0.53
+
+# Based on: PYSEC-2020-225
+# Source: https://github.com/pypa/advisory-database/blazar-dashboard/PYSEC-2020-225.yaml
+blazar-dashboard >= 3.0.1
+
+# Based on: PYSEC-2021-865
+# Source: https://github.com/pypa/advisory-database/bleach/PYSEC-2021-865.yaml
+bleach >= 3.3.0
+
+# Based on: PYSEC-2019-150
+# Source: https://github.com/pypa/advisory-database/bodhi/PYSEC-2019-150.yaml
+bodhi >= 3.3.0
+
+# Based on: PYSEC-2023-164
+# Source: https://github.com/pypa/advisory-database/borgbackup/PYSEC-2023-164.yaml
+borgbackup >= 1.2.5
+
+# Based on: PYSEC-2021-422
+# Source: https://github.com/pypa/advisory-database/botframework-connector/PYSEC-2021-422.yaml
+botframework-connector >= 4.10.1
+
+# Based on: PYSEC-2022-227
+# Source: https://github.com/pypa/advisory-database/bottle/PYSEC-2022-227.yaml
+bottle >= 0.12.20
+
+# Based on: PYSEC-2020-29
+# Source: https://github.com/pypa/advisory-database/brotli/PYSEC-2020-29.yaml
+brotli >= 1.0.8
+
+# Based on: PYSEC-2020-30
+# Source: https://github.com/pypa/advisory-database/bsdiff4/PYSEC-2020-30.yaml
+bsdiff4 >= 1.2.0
+
+# Based on: PYSEC-2019-6
+# Source: https://github.com/pypa/advisory-database/buildbot/PYSEC-2019-6.yaml
+buildbot >= 2.3.1
+
+# No safe versions exist for cabot!
+# See: https://github.com/pypa/advisory-database/cabot
+cabot < 0.0.0
+
+# Based on: PYSEC-2023-9
+# Source: https://github.com/pypa/advisory-database/cairosvg/PYSEC-2023-9.yaml
+cairosvg >= 2.7.0
+
+# Based on: PYSEC-2022-18
+# Source: https://github.com/pypa/advisory-database/calibreweb/PYSEC-2022-18.yaml
+calibreweb >= 0.6.16
+
+# No safe versions exist for case-utils!
+# See: https://github.com/pypa/advisory-database/case-utils
+case-utils < 0.0.0
+
+# Based on: PYSEC-2022-221
+# Source: https://github.com/pypa/advisory-database/catly-translate/PYSEC-2022-221.yaml
+catly-translate >= 0.0.6
+
+# No safe versions exist for cdo-local-uuid!
+# See: https://github.com/pypa/advisory-database/cdo-local-uuid
+cdo-local-uuid < 0.0.0
+
+# Based on: PYSEC-2019-78
+# Source: https://github.com/pypa/advisory-database/ceilometer/PYSEC-2019-78.yaml
+ceilometer >= 12.0.0.0rc1
+
+# Based on: PYSEC-2021-858
+# Source: https://github.com/pypa/advisory-database/celery/PYSEC-2021-858.yaml
+celery >= 5.2.2
+
+# Based on: PYSEC-2015-2
+# Source: https://github.com/pypa/advisory-database/ceph-deploy/PYSEC-2015-2.yaml
+ceph-deploy >= 1.5.23
+
+# Based on: PYSEC-2023-135
+# Source: https://github.com/pypa/advisory-database/certifi/PYSEC-2023-135.yaml
+certifi >= 2023.7.22
+
+# Based on: PYSEC-2017-7
+# Source: https://github.com/pypa/advisory-database/cfscrape/PYSEC-2017-7.yaml
+cfscrape >= 1.8.0
+
+# Based on: PYSEC-2024-15
+# Source: https://github.com/pypa/advisory-database/changedetection-io/PYSEC-2024-15.yaml
+changedetection-io >= 0.45.13
+
+# Based on: PYSEC-2021-113
+# Source: https://github.com/pypa/advisory-database/channels/PYSEC-2021-113.yaml
+channels >= 3.0.3
+
+# Based on: PYSEC-2017-100
+# Source: https://github.com/pypa/advisory-database/cherrymusic/PYSEC-2017-100.yaml
+cherrymusic >= 0.36.0
+
+# Based on: PYSEC-2008-3
+# Source: https://github.com/pypa/advisory-database/cherrypy/PYSEC-2008-3.yaml
+cherrypy >= 3.0.2
+
+# Based on: PYSEC-2020-228
+# Source: https://github.com/pypa/advisory-database/cinder/PYSEC-2020-228.yaml
+cinder >= 16.1.0
+
+# Based on: PYSEC-2022-42987
+# Source: https://github.com/pypa/advisory-database/ckan/PYSEC-2022-42987.yaml
+ckan >= 2.9.7
+
+# Based on: PYSEC-2021-61
+# Source: https://github.com/pypa/advisory-database/clickhouse-driver/PYSEC-2021-61.yaml
+clickhouse-driver >= 0.1.5
+
+# Based on: PYSEC-2018-1
+# Source: https://github.com/pypa/advisory-database/cloudtoken/PYSEC-2018-1.yaml
+cloudtoken >= 0.1.24
+
+# No safe versions exist for coapthon!
+# See: https://github.com/pypa/advisory-database/coapthon
+coapthon < 0.0.0
+
+# No safe versions exist for coapthon3!
+# See: https://github.com/pypa/advisory-database/coapthon3
+coapthon3 < 0.0.0
+
+# Based on: PYSEC-2022-177
+# Source: https://github.com/pypa/advisory-database/cobbler/PYSEC-2022-177.yaml
+cobbler >= 3.3.2
+
+# Based on: PYSEC-2022-238
+# Source: https://github.com/pypa/advisory-database/codecov/PYSEC-2022-238.yaml
+codecov >= 2.0.16
+
+# Based on: PYSEC-2023-210
+# Source: https://github.com/pypa/advisory-database/coderedcms/PYSEC-2023-210.yaml
+coderedcms >= 0.22.3
+
+# Based on: PYSEC-2019-167
+# Source: https://github.com/pypa/advisory-database/colander/PYSEC-2019-167.yaml
+colander >= 1.7.0
+
+# Based on: PYSEC-2022-42988
+# Source: https://github.com/pypa/advisory-database/collective-contact-widget/PYSEC-2022-42988.yaml
+collective-contact-widget >= 1.12
+
+# Based on: PYSEC-2022-42989
+# Source: https://github.com/pypa/advisory-database/collective-dms-basecontent/PYSEC-2022-42989.yaml
+collective-dms-basecontent >= 1.7
+
+# Based on: PYSEC-2022-42990
+# Source: https://github.com/pypa/advisory-database/collective-task/PYSEC-2022-42990.yaml
+collective-task >= 3.0.10
+
+# No safe versions exist for conference-scheduler-cli!
+# See: https://github.com/pypa/advisory-database/conference-scheduler-cli
+conference-scheduler-cli < 0.0.0
+
+# No safe versions exist for confire!
+# See: https://github.com/pypa/advisory-database/confire
+confire < 0.0.0
+
+# Based on: PYSEC-2022-189
+# Source: https://github.com/pypa/advisory-database/consoleme/PYSEC-2022-189.yaml
+consoleme >= 1.2.2
+
+# Based on: PYSEC-2022-204
+# Source: https://github.com/pypa/advisory-database/cookiecutter/PYSEC-2022-204.yaml
+cookiecutter >= 2.1.1
+
+# Based on: PYSEC-2023-132
+# Source: https://github.com/pypa/advisory-database/copyparty/PYSEC-2023-132.yaml
+copyparty >= 1.8.7
+
+# Based on: PYSEC-2022-207
+# Source: https://github.com/pypa/advisory-database/couchbase/PYSEC-2022-207.yaml
+couchbase >= 3.0.2
+
+# No safe versions exist for crate!
+# See: https://github.com/pypa/advisory-database/crate
+crate < 0.0.0
+
+# Based on: PYSEC-2022-217
+# Source: https://github.com/pypa/advisory-database/cryptoasset-data-downloader/PYSEC-2022-217.yaml
+cryptoasset-data-downloader >= 1.0.2
+
+# Based on: PYSEC-2023-254
+# Source: https://github.com/pypa/advisory-database/cryptography/PYSEC-2023-254.yaml
+cryptography >= 41.0.6
+
+# No safe versions exist for ctx!
+# See: https://github.com/pypa/advisory-database/ctx
+ctx < 0.0.0
+
+# Based on: PYSEC-2021-870
+# Source: https://github.com/pypa/advisory-database/cvxopt/PYSEC-2021-870.yaml
+cvxopt >= 1.2.7
+
+# No safe versions exist for d8s-algorithms!
+# See: https://github.com/pypa/advisory-database/d8s-algorithms
+d8s-algorithms < 0.0.0
+
+# No safe versions exist for d8s-archives!
+# See: https://github.com/pypa/advisory-database/d8s-archives
+d8s-archives < 0.0.0
+
+# No safe versions exist for d8s-asns!
+# See: https://github.com/pypa/advisory-database/d8s-asns
+d8s-asns < 0.0.0
+
+# No safe versions exist for d8s-domains!
+# See: https://github.com/pypa/advisory-database/d8s-domains
+d8s-domains < 0.0.0
+
+# No safe versions exist for d8s-file-system!
+# See: https://github.com/pypa/advisory-database/d8s-file-system
+d8s-file-system < 0.0.0
+
+# No safe versions exist for d8s-html!
+# See: https://github.com/pypa/advisory-database/d8s-html
+d8s-html < 0.0.0
+
+# No safe versions exist for d8s-json!
+# See: https://github.com/pypa/advisory-database/d8s-json
+d8s-json < 0.0.0
+
+# No safe versions exist for d8s-lists!
+# See: https://github.com/pypa/advisory-database/d8s-lists
+d8s-lists < 0.0.0
+
+# No safe versions exist for d8s-networking!
+# See: https://github.com/pypa/advisory-database/d8s-networking
+d8s-networking < 0.0.0
+
+# No safe versions exist for d8s-pdfs!
+# See: https://github.com/pypa/advisory-database/d8s-pdfs
+d8s-pdfs < 0.0.0
+
+# No safe versions exist for d8s-urls!
+# See: https://github.com/pypa/advisory-database/d8s-urls
+d8s-urls < 0.0.0
+
+# No safe versions exist for d8s-utility!
+# See: https://github.com/pypa/advisory-database/d8s-utility
+d8s-utility < 0.0.0
+
+# No safe versions exist for d8s-xml!
+# See: https://github.com/pypa/advisory-database/d8s-xml
+d8s-xml < 0.0.0
+
+# No safe versions exist for d8s-yaml!
+# See: https://github.com/pypa/advisory-database/d8s-yaml
+d8s-yaml < 0.0.0
+
+# Based on: PYSEC-2024-35
+# Source: https://github.com/pypa/advisory-database/dash/PYSEC-2024-35.yaml
+dash >= 2.15.0
+
+# Based on: PYSEC-2021-387
+# Source: https://github.com/pypa/advisory-database/dask/PYSEC-2021-387.yaml
+dask >= 2021.10.0
+
+# Based on: PYSEC-2021-89
+# Source: https://github.com/pypa/advisory-database/datasette/PYSEC-2021-89.yaml
+datasette >= 0.56.1
+
+# No safe versions exist for deep-translator!
+# See: https://github.com/pypa/advisory-database/deep-translator
+deep-translator < 0.0.0
+
+# No safe versions exist for definitions!
+# See: https://github.com/pypa/advisory-database/definitions
+definitions < 0.0.0
+
+# Based on: PYSEC-2022-256
+# Source: https://github.com/pypa/advisory-database/deluge/PYSEC-2022-256.yaml
+deluge >= 2.1.0
+
+# No safe versions exist for democritus-csv!
+# See: https://github.com/pypa/advisory-database/democritus-csv
+democritus-csv < 0.0.0
+
+# No safe versions exist for democritus-dicts!
+# See: https://github.com/pypa/advisory-database/democritus-dicts
+democritus-dicts < 0.0.0
+
+# No safe versions exist for democritus-file-system!
+# See: https://github.com/pypa/advisory-database/democritus-file-system
+democritus-file-system < 0.0.0
+
+# No safe versions exist for democritus-hashes!
+# See: https://github.com/pypa/advisory-database/democritus-hashes
+democritus-hashes < 0.0.0
+
+# No safe versions exist for democritus-html!
+# See: https://github.com/pypa/advisory-database/democritus-html
+democritus-html < 0.0.0
+
+# No safe versions exist for democritus-urls!
+# See: https://github.com/pypa/advisory-database/democritus-urls
+democritus-urls < 0.0.0
+
+# Based on: PYSEC-2024-41
+# Source: https://github.com/pypa/advisory-database/diffoscope/PYSEC-2024-41.yaml
+diffoscope >= 256
+
+# Based on: PYSEC-2021-871
+# Source: https://github.com/pypa/advisory-database/distributed/PYSEC-2021-871.yaml
+distributed >= 2021.10.0
+
+# Based on: PYSEC-2024-47
+# Source: https://github.com/pypa/advisory-database/django/PYSEC-2024-47.yaml
+django >= 5.0.3
+
+# Based on: PYSEC-2018-46
+# Source: https://github.com/pypa/advisory-database/django-anymail/PYSEC-2018-46.yaml
+django-anymail >= 1.4
+
+# Based on: PYSEC-2020-37
+# Source: https://github.com/pypa/advisory-database/django-basic-auth-ip-whitelist/PYSEC-2020-37.yaml
+django-basic-auth-ip-whitelist >= 0.3.4
+
+# Based on: PYSEC-2020-38
+# Source: https://github.com/pypa/advisory-database/django-celery-results/PYSEC-2020-38.yaml
+django-celery-results >= 2.0.0
+
+# Based on: PYSEC-2022-7
+# Source: https://github.com/pypa/advisory-database/django-cms/PYSEC-2022-7.yaml
+django-cms >= 3.7.4
+
+# No safe versions exist for django-crm!
+# See: https://github.com/pypa/advisory-database/django-crm
+django-crm < 0.0.0
+
+# Based on: PYSEC-2021-10
+# Source: https://github.com/pypa/advisory-database/django-debug-toolbar/PYSEC-2021-10.yaml
+django-debug-toolbar >= 3.2.1
+
+# No safe versions exist for django-epiceditor!
+# See: https://github.com/pypa/advisory-database/django-epiceditor
+django-epiceditor < 0.0.0
+
+# Based on: PYSEC-2021-64
+# Source: https://github.com/pypa/advisory-database/django-filter/PYSEC-2021-64.yaml
+django-filter >= 2.4.0
+
+# Based on: PYSEC-2023-211
+# Source: https://github.com/pypa/advisory-database/django-grappelli/PYSEC-2023-211.yaml
+django-grappelli >= 2.15.2
+
+# Based on: PYSEC-2021-438
+# Source: https://github.com/pypa/advisory-database/django-helpdesk/PYSEC-2021-438.yaml
+django-helpdesk >= 0.3.2
+
+# Based on: PYSEC-2019-19
+# Source: https://github.com/pypa/advisory-database/django-js-reverse/PYSEC-2019-19.yaml
+django-js-reverse >= 0.9.1
+
+# No safe versions exist for django-make-app!
+# See: https://github.com/pypa/advisory-database/django-make-app
+django-make-app < 0.0.0
+
+# Based on: PYSEC-2015-12
+# Source: https://github.com/pypa/advisory-database/django-markupfield/PYSEC-2015-12.yaml
+django-markupfield >= 1.3.2
+
+# Based on: PYSEC-2022-303
+# Source: https://github.com/pypa/advisory-database/django-mfa2/PYSEC-2022-303.yaml
+django-mfa2 >= 2.6.1
+
+# Based on: PYSEC-2022-192
+# Source: https://github.com/pypa/advisory-database/django-mfa3/PYSEC-2022-192.yaml
+django-mfa3 >= 0.5.0
+
+# Based on: PYSEC-2022-218
+# Source: https://github.com/pypa/advisory-database/django-navbar-client/PYSEC-2022-218.yaml
+django-navbar-client >= 1.0.2
+
+# Based on: PYSEC-2020-229
+# Source: https://github.com/pypa/advisory-database/django-nopassword/PYSEC-2020-229.yaml
+django-nopassword >= 5.0.0
+
+# Based on: PYSEC-2022-43061
+# Source: https://github.com/pypa/advisory-database/django-photologue/PYSEC-2022-43061.yaml
+django-photologue >= 3.16
+
+# Based on: PYSEC-2014-24
+# Source: https://github.com/pypa/advisory-database/django-piston/PYSEC-2014-24.yaml
+django-piston >= 0.2.3
+
+# Based on: PYSEC-2021-11
+# Source: https://github.com/pypa/advisory-database/django-registration/PYSEC-2021-11.yaml
+django-registration >= 3.1.2
+
+# Based on: PYSEC-2019-20
+# Source: https://github.com/pypa/advisory-database/django-rest-registration/PYSEC-2019-20.yaml
+django-rest-registration >= 0.5.0
+
+# Based on: PYSEC-2022-208
+# Source: https://github.com/pypa/advisory-database/django-s3file/PYSEC-2022-208.yaml
+django-s3file >= 5.5.1
+
+# Based on: PYSEC-2023-82
+# Source: https://github.com/pypa/advisory-database/django-ses/PYSEC-2023-82.yaml
+django-ses >= 3.5.0
+
+# Based on: PYSEC-2014-25
+# Source: https://github.com/pypa/advisory-database/django-tastypie/PYSEC-2014-25.yaml
+django-tastypie >= 0.9.10
+
+# Based on: PYSEC-2020-39
+# Source: https://github.com/pypa/advisory-database/django-two-factor-auth/PYSEC-2020-39.yaml
+django-two-factor-auth >= 1.12
+
+# Based on: PYSEC-2023-14
+# Source: https://github.com/pypa/advisory-database/django-ucamlookup/PYSEC-2023-14.yaml
+django-ucamlookup >= 1.9.2
+
+# Based on: PYSEC-2021-369
+# Source: https://github.com/pypa/advisory-database/django-unicorn/PYSEC-2021-369.yaml
+django-unicorn >= 0.36.1
+
+# Based on: PYSEC-2020-230
+# Source: https://github.com/pypa/advisory-database/django-user-sessions/PYSEC-2020-230.yaml
+django-user-sessions >= 1.7.1
+
+# Based on: PYSEC-2021-336
+# Source: https://github.com/pypa/advisory-database/django-widgy/PYSEC-2021-336.yaml
+django-widgy >= 0.9.0
+
+# Based on: PYSEC-2020-263
+# Source: https://github.com/pypa/advisory-database/djangorestframework/PYSEC-2020-263.yaml
+djangorestframework >= 3.11.2
+
+# Based on: PYSEC-2014-78
+# Source: https://github.com/pypa/advisory-database/djblets/PYSEC-2014-78.yaml
+djblets >= 0.8.3
+
+# Based on: PYSEC-2022-4
+# Source: https://github.com/pypa/advisory-database/dnslib/PYSEC-2022-4.yaml
+dnslib >= 0.9.17
+
+# Based on: PYSEC-2014-80
+# Source: https://github.com/pypa/advisory-database/docker-py/PYSEC-2014-80.yaml
+docker-py >= 0.5.3
+
+# Based on: PYSEC-2019-176
+# Source: https://github.com/pypa/advisory-database/docutils/PYSEC-2019-176.yaml
+docutils >= 0.6
+
+# Based on: PYSEC-2019-21
+# Source: https://github.com/pypa/advisory-database/donfig/PYSEC-2019-21.yaml
+donfig >= 0.4.0
+
+# Based on: PYSEC-2022-301
+# Source: https://github.com/pypa/advisory-database/dparse/PYSEC-2022-301.yaml
+dparse >= 0.5.2
+
+# Based on: PYSEC-2020-40
+# Source: https://github.com/pypa/advisory-database/drf-jwt/PYSEC-2020-40.yaml
+drf-jwt >= 1.15.1
+
+# Based on: PYSEC-2024-25
+# Source: https://github.com/pypa/advisory-database/duckdb/PYSEC-2024-25.yaml
+duckdb >= 0.9.3.dev6
+
+# Based on: PYSEC-2017-12
+# Source: https://github.com/pypa/advisory-database/dulwich/PYSEC-2017-12.yaml
+dulwich >= 0.18.5
+
+# No safe versions exist for easy-parse!
+# See: https://github.com/pypa/advisory-database/easy-parse
+easy-parse < 0.0.0
+
+# No safe versions exist for easy-xml!
+# See: https://github.com/pypa/advisory-database/easy-xml
+easy-xml < 0.0.0
+
+# Based on: PYSEC-2020-268
+# Source: https://github.com/pypa/advisory-database/easybuild/PYSEC-2020-268.yaml
+easybuild >= 4.1.2
+
+# Based on: PYSEC-2020-41
+# Source: https://github.com/pypa/advisory-database/easybuild-framework/PYSEC-2020-41.yaml
+easybuild-framework >= 4.1.2
+
+# Based on: PYSEC-2019-177
+# Source: https://github.com/pypa/advisory-database/ecdsa/PYSEC-2019-177.yaml
+ecdsa >= 0.13.3
+
+# Based on: PYSEC-2019-178
+# Source: https://github.com/pypa/advisory-database/elastic-apm/PYSEC-2019-178.yaml
+elastic-apm >= 5.1.0
+
+# No safe versions exist for elixir!
+# See: https://github.com/pypa/advisory-database/elixir
+elixir < 0.0.0
+
+# Based on: PYSEC-2024-7
+# Source: https://github.com/pypa/advisory-database/embedchain/PYSEC-2024-7.yaml
+embedchain >= 0.1.57
+
+# Based on: PYSEC-2021-385
+# Source: https://github.com/pypa/advisory-database/enrocrypt/PYSEC-2021-385.yaml
+enrocrypt >= 1.1.4
+
+# Based on: PYSEC-2021-351
+# Source: https://github.com/pypa/advisory-database/esphome/PYSEC-2021-351.yaml
+esphome >= 2021.9.2
+
+# No safe versions exist for esptool!
+# See: https://github.com/pypa/advisory-database/esptool
+esptool < 0.0.0
+
+# Based on: PYSEC-2023-107
+# Source: https://github.com/pypa/advisory-database/ethyca-fides/PYSEC-2023-107.yaml
+ethyca-fides >= 2.15.1
+
+# Based on: PYSEC-2018-8
+# Source: https://github.com/pypa/advisory-database/eve/PYSEC-2018-8.yaml
+eve >= 0.7.5
+
+# No safe versions exist for eve-srp!
+# See: https://github.com/pypa/advisory-database/eve-srp
+eve-srp < 0.0.0
+
+# Based on: PYSEC-2021-12
+# Source: https://github.com/pypa/advisory-database/eventlet/PYSEC-2021-12.yaml
+eventlet >= 0.31.0
+
+# No safe versions exist for exiv2!
+# See: https://github.com/pypa/advisory-database/exiv2
+exiv2 < 0.0.0
+
+# No safe versions exist for exotel!
+# See: https://github.com/pypa/advisory-database/exotel
+exotel < 0.0.0
+
+# Based on: PYSEC-2022-241
+# Source: https://github.com/pypa/advisory-database/eziod/PYSEC-2022-241.yaml
+eziod >= 0.0.2
+
+# Based on: PYSEC-2024-38
+# Source: https://github.com/pypa/advisory-database/fastapi/PYSEC-2024-38.yaml
+fastapi >= 0.109.1
+
+# Based on: PYSEC-2024-39
+# Source: https://github.com/pypa/advisory-database/fastecdsa/PYSEC-2024-39.yaml
+fastecdsa >= 2.3.2
+
+# Based on: PYSEC-2022-246
+# Source: https://github.com/pypa/advisory-database/fava/PYSEC-2022-246.yaml
+fava >= 1.22.3
+
+# Based on: PYSEC-2017-13
+# Source: https://github.com/pypa/advisory-database/fedmsg/PYSEC-2017-13.yaml
+fedmsg >= 0.18.2
+
+# Based on: PYSEC-2020-231
+# Source: https://github.com/pypa/advisory-database/feedgen/PYSEC-2020-231.yaml
+feedgen >= 0.9.0
+
+# Based on: PYSEC-2012-14
+# Source: https://github.com/pypa/advisory-database/feedparser/PYSEC-2012-14.yaml
+feedparser >= 5.1.2
+
+# Based on: PYSEC-2023-62
+# Source: https://github.com/pypa/advisory-database/flask/PYSEC-2023-62.yaml
+flask >= 2.3.2
+
+# Based on: PYSEC-2018-54
+# Source: https://github.com/pypa/advisory-database/flask-admin/PYSEC-2018-54.yaml
+flask-admin >= 1.5.3
+
+# Based on: PYSEC-2023-94
+# Source: https://github.com/pypa/advisory-database/flask-appbuilder/PYSEC-2023-94.yaml
+flask-appbuilder >= 4.3.2
+
+# No safe versions exist for flask-caching!
+# See: https://github.com/pypa/advisory-database/flask-caching
+flask-caching < 0.0.0
+
+# Based on: PYSEC-2020-43
+# Source: https://github.com/pypa/advisory-database/flask-cors/PYSEC-2020-43.yaml
+flask-cors >= 3.0.9
+
+# Based on: PYSEC-2016-25
+# Source: https://github.com/pypa/advisory-database/flask-oidc/PYSEC-2016-25.yaml
+flask-oidc >= 1.0.0
+
+# Based on: PYSEC-2021-325
+# Source: https://github.com/pypa/advisory-database/flask-restx/PYSEC-2021-325.yaml
+flask-restx >= 0.5.1
+
+# Based on: PYSEC-2023-248
+# Source: https://github.com/pypa/advisory-database/flask-security-too/PYSEC-2023-248.yaml
+flask-security-too >= 5.3.3
+
+# Based on: PYSEC-2022-193
+# Source: https://github.com/pypa/advisory-database/flask-session-captcha/PYSEC-2022-193.yaml
+flask-session-captcha >= 1.2.1
+
+# Based on: PYSEC-2021-96
+# Source: https://github.com/pypa/advisory-database/flask-unchained/PYSEC-2021-96.yaml
+flask-unchained >= 0.9.0
+
+# No safe versions exist for flask-user!
+# See: https://github.com/pypa/advisory-database/flask-user
+flask-user < 0.0.0
+
+# Based on: PYSEC-2022-42973
+# Source: https://github.com/pypa/advisory-database/flower/PYSEC-2022-42973.yaml
+flower >= 1.2.0
+
+# Based on: PYSEC-2009-5
+# Source: https://github.com/pypa/advisory-database/formencode/PYSEC-2009-5.yaml
+formencode >= 1.0.1
+
+# Based on: PYSEC-2019-22
+# Source: https://github.com/pypa/advisory-database/freeipa/PYSEC-2019-22.yaml
+freeipa >= 4.8.3
+
+# No safe versions exist for freetakserver!
+# See: https://github.com/pypa/advisory-database/freetakserver
+freetakserver < 0.0.0
+
+# Based on: PYSEC-2020-232
+# Source: https://github.com/pypa/advisory-database/freewvs/PYSEC-2020-232.yaml
+freewvs >= 0.1.1
+
+# Based on: PYSEC-2022-42991
+# Source: https://github.com/pypa/advisory-database/future/PYSEC-2022-42991.yaml
+future >= 0.18.3
+
+# Based on: PYSEC-2022-225
+# Source: https://github.com/pypa/advisory-database/ganga/PYSEC-2022-225.yaml
+ganga >= 8.5.10
+
+# No safe versions exist for gateone!
+# See: https://github.com/pypa/advisory-database/gateone
+gateone < 0.0.0
+
+# Based on: PYSEC-2022-43065
+# Source: https://github.com/pypa/advisory-database/gdal/PYSEC-2022-43065.yaml
+gdal >= 3.4.1
+
+# Based on: PYSEC-2023-15
+# Source: https://github.com/pypa/advisory-database/geonode/PYSEC-2023-15.yaml
+geonode >= 4.0.3
+
+# Based on: PYSEC-2022-17
+# Source: https://github.com/pypa/advisory-database/gerapy/PYSEC-2022-17.yaml
+gerapy >= 0.9.9
+
+# Based on: PYSEC-2023-177
+# Source: https://github.com/pypa/advisory-database/gevent/PYSEC-2023-177.yaml
+gevent >= 23.9.1
+
+# Based on: PYSEC-2021-15
+# Source: https://github.com/pypa/advisory-database/git-big-picture/PYSEC-2021-15.yaml
+git-big-picture >= 1.0.0
+
+# Based on: PYSEC-2024-4
+# Source: https://github.com/pypa/advisory-database/gitpython/PYSEC-2024-4.yaml
+gitpython >= 3.1.41
+
+# Based on: PYSEC-2021-115
+# Source: https://github.com/pypa/advisory-database/glances/PYSEC-2021-115.yaml
+glances >= 3.2.1
+
+# Based on: PYSEC-2023-255
+# Source: https://github.com/pypa/advisory-database/gradio/PYSEC-2023-255.yaml
+gradio >= 4.14.0
+
+# Based on: PYSEC-2021-65
+# Source: https://github.com/pypa/advisory-database/gramaddict/PYSEC-2021-65.yaml
+gramaddict >= 1.2.4
+
+# Based on: PYSEC-2019-151
+# Source: https://github.com/pypa/advisory-database/graphite-web/PYSEC-2019-151.yaml
+graphite-web >= 1.1.6
+
+# No safe versions exist for gratient!
+# See: https://github.com/pypa/advisory-database/gratient
+gratient < 0.0.0
+
+# Based on: PYSEC-2017-101
+# Source: https://github.com/pypa/advisory-database/grpcio/PYSEC-2017-101.yaml
+grpcio >= 1.3.0
+
+# Based on: PYSEC-2022-165
+# Source: https://github.com/pypa/advisory-database/guake/PYSEC-2022-165.yaml
+guake >= 3.8.5
+
+# Based on: PYSEC-2022-42993
+# Source: https://github.com/pypa/advisory-database/guarddog/PYSEC-2022-42993.yaml
+guarddog >= 0.1.8
+
+# Based on: PYSEC-2018-55
+# Source: https://github.com/pypa/advisory-database/gunicorn/PYSEC-2018-55.yaml
+gunicorn >= 19.5.0
+
+# No safe versions exist for hana-ml!
+# See: https://github.com/pypa/advisory-database/hana-ml
+hana-ml < 0.0.0
+
+# Based on: PYSEC-2023-214
+# Source: https://github.com/pypa/advisory-database/homeassistant/PYSEC-2023-214.yaml
+homeassistant >= 2023.9.0
+
+# Based on: PYSEC-2023-153
+# Source: https://github.com/pypa/advisory-database/horizon/PYSEC-2023-153.yaml
+horizon >= 20.2.0
+
+# Based on: PYSEC-2022-175
+# Source: https://github.com/pypa/advisory-database/horovod/PYSEC-2022-175.yaml
+horovod >= 0.24.0
+
+# Based on: PYSEC-2017-87
+# Source: https://github.com/pypa/advisory-database/hpack/PYSEC-2017-87.yaml
+hpack >= 2.3.0
+
+# No safe versions exist for html-to-csv!
+# See: https://github.com/pypa/advisory-database/html-to-csv
+html-to-csv < 0.0.0
+
+# Based on: PYSEC-2017-14
+# Source: https://github.com/pypa/advisory-database/html5lib/PYSEC-2017-14.yaml
+html5lib >= 0.999999999
+
+# Based on: PYSEC-2022-167
+# Source: https://github.com/pypa/advisory-database/httpie/PYSEC-2022-167.yaml
+httpie >= 3.1.0
+
+# Based on: PYSEC-2021-16
+# Source: https://github.com/pypa/advisory-database/httplib2/PYSEC-2021-16.yaml
+httplib2 >= 0.19.0
+
+# Based on: PYSEC-2022-183
+# Source: https://github.com/pypa/advisory-database/httpx/PYSEC-2022-183.yaml
+httpx >= 0.20.0
+
+# Based on: PYSEC-2021-77
+# Source: https://github.com/pypa/advisory-database/hyperkitty/PYSEC-2021-77.yaml
+hyperkitty >= 1.3.5
+
+# No safe versions exist for hyperledger!
+# See: https://github.com/pypa/advisory-database/hyperledger
+hyperledger < 0.0.0
+
+# Based on: PYSEC-2020-264
+# Source: https://github.com/pypa/advisory-database/ihatemoney/PYSEC-2020-264.yaml
+ihatemoney >= 4.1.5
+
+# Based on: PYSEC-2023-174
+# Source: https://github.com/pypa/advisory-database/imagecodecs/PYSEC-2023-174.yaml
+imagecodecs >= 2023.9.18
+
+# Based on: PYSEC-2021-17
+# Source: https://github.com/pypa/advisory-database/impacket/PYSEC-2021-17.yaml
+impacket >= 0.9.23
+
+# Based on: PYSEC-2023-63
+# Source: https://github.com/pypa/advisory-database/in-toto/PYSEC-2023-63.yaml
+in-toto >= 2.0.0
+
+# Based on: PYSEC-2023-129
+# Source: https://github.com/pypa/advisory-database/indico/PYSEC-2023-129.yaml
+indico >= 3.2.6
+
+# Based on: PYSEC-2022-270
+# Source: https://github.com/pypa/advisory-database/indy-node/PYSEC-2022-270.yaml
+indy-node >= 1.13.0.dev2
+
+# Based on: PYSEC-2019-24
+# Source: https://github.com/pypa/advisory-database/invenio-app/PYSEC-2019-24.yaml
+invenio-app >= 1.1.1
+
+# Based on: PYSEC-2021-837
+# Source: https://github.com/pypa/advisory-database/invenio-app-rdm/PYSEC-2021-837.yaml
+invenio-app-rdm >= 7.0.0.dev5
+
+# Based on: PYSEC-2019-25
+# Source: https://github.com/pypa/advisory-database/invenio-communities/PYSEC-2019-25.yaml
+invenio-communities >= 1.0.0a20
+
+# Based on: PYSEC-2021-836
+# Source: https://github.com/pypa/advisory-database/invenio-drafts-resources/PYSEC-2021-836.yaml
+invenio-drafts-resources >= 0.14.6
+
+# Based on: PYSEC-2019-26
+# Source: https://github.com/pypa/advisory-database/invenio-previewer/PYSEC-2019-26.yaml
+invenio-previewer >= 1.0.0a12
+
+# Based on: PYSEC-2021-838
+# Source: https://github.com/pypa/advisory-database/invenio-rdm-records/PYSEC-2021-838.yaml
+invenio-rdm-records >= 0.33.10
+
+# Based on: PYSEC-2019-27
+# Source: https://github.com/pypa/advisory-database/invenio-records/PYSEC-2019-27.yaml
+invenio-records >= 1.0.2
+
+# Based on: PYSEC-2019-168
+# Source: https://github.com/pypa/advisory-database/ipa/PYSEC-2019-168.yaml
+ipa >= 4.8.3
+
+# No safe versions exist for ipycache!
+# See: https://github.com/pypa/advisory-database/ipycache
+ipycache < 0.0.0
+
+# Based on: PYSEC-2023-17
+# Source: https://github.com/pypa/advisory-database/ipython/PYSEC-2023-17.yaml
+ipython >= 8.10.0
+
+# Based on: PYSEC-2019-152
+# Source: https://github.com/pypa/advisory-database/ironic-inspector/PYSEC-2019-152.yaml
+ironic-inspector >= 8.2.1
+
+# Based on: PYSEC-2022-178
+# Source: https://github.com/pypa/advisory-database/irrd/PYSEC-2022-178.yaml
+irrd >= 4.2.3
+
+# Based on: PYSEC-2021-66
+# Source: https://github.com/pypa/advisory-database/jinja2/PYSEC-2021-66.yaml
+jinja2 >= 2.11.3
+
+# Based on: PYSEC-2022-288
+# Source: https://github.com/pypa/advisory-database/joblib/PYSEC-2022-288.yaml
+joblib >= 1.2.0
+
+# Based on: PYSEC-2018-84
+# Source: https://github.com/pypa/advisory-database/jsnapy/PYSEC-2018-84.yaml
+jsnapy >= 1.3.0
+
+# No safe versions exist for json-logic!
+# See: https://github.com/pypa/advisory-database/json-logic
+json-logic < 0.0.0
+
+# Based on: PYSEC-2023-149
+# Source: https://github.com/pypa/advisory-database/json2xml/PYSEC-2023-149.yaml
+json2xml >= 3.14.0
+
+# Based on: PYSEC-2020-49
+# Source: https://github.com/pypa/advisory-database/jsonpickle/PYSEC-2020-49.yaml
+jsonpickle >= 1.4.2
+
+# Based on: PYSEC-2018-114
+# Source: https://github.com/pypa/advisory-database/jubatus/PYSEC-2018-114.yaml
+jubatus >= 1.1.0
+
+# Based on: PYSEC-2022-42974
+# Source: https://github.com/pypa/advisory-database/jupyter-core/PYSEC-2022-42974.yaml
+jupyter-core >= 4.11.2
+
+# Based on: PYSEC-2023-155
+# Source: https://github.com/pypa/advisory-database/jupyter-server/PYSEC-2023-155.yaml
+jupyter-server >= 2.7.2
+
+# Based on: PYSEC-2022-16
+# Source: https://github.com/pypa/advisory-database/jupyter-server-proxy/PYSEC-2022-16.yaml
+jupyter-server-proxy >= 3.2.1
+
+# Based on: PYSEC-2021-386
+# Source: https://github.com/pypa/advisory-database/jupyterhub/PYSEC-2021-386.yaml
+jupyterhub >= 1.5.0
+
+# Based on: PYSEC-2021-384
+# Source: https://github.com/pypa/advisory-database/jupyterhub-firstuseauthenticator/PYSEC-2021-384.yaml
+jupyterhub-firstuseauthenticator >= 1.0.0
+
+# Based on: PYSEC-2020-51
+# Source: https://github.com/pypa/advisory-database/jupyterhub-kubespawner/PYSEC-2020-51.yaml
+jupyterhub-kubespawner >= 0.12.0
+
+# Based on: PYSEC-2020-52
+# Source: https://github.com/pypa/advisory-database/jupyterhub-systemdspawner/PYSEC-2020-52.yaml
+jupyterhub-systemdspawner >= 0.15.0
+
+# Based on: PYSEC-2021-130
+# Source: https://github.com/pypa/advisory-database/jupyterlab/PYSEC-2021-130.yaml
+jupyterlab >= 3.1.4
+
+# Based on: PYSEC-2020-341
+# Source: https://github.com/pypa/advisory-database/jw.util/PYSEC-2020-341.yaml
+jw.util >= 2.3
+
+# Based on: PYSEC-2016-4
+# Source: https://github.com/pypa/advisory-database/jwcrypto/PYSEC-2016-4.yaml
+jwcrypto >= 0.4.0
+
+# Based on: PYSEC-2015-13
+# Source: https://github.com/pypa/advisory-database/kallithea/PYSEC-2015-13.yaml
+kallithea >= 0.3
+
+# Based on: PYSEC-2018-85
+# Source: https://github.com/pypa/advisory-database/kdcproxy/PYSEC-2018-85.yaml
+kdcproxy >= 0.3.2
+
+# No safe versions exist for keep!
+# See: https://github.com/pypa/advisory-database/keep
+keep < 0.0.0
+
+# No safe versions exist for kerberos!
+# See: https://github.com/pypa/advisory-database/kerberos
+kerberos < 0.0.0
+
+# Based on: PYSEC-2023-160
+# Source: https://github.com/pypa/advisory-database/keylime/PYSEC-2023-160.yaml
+keylime >= 7.5.0
+
+# Based on: PYSEC-2019-182
+# Source: https://github.com/pypa/advisory-database/keyring/PYSEC-2019-182.yaml
+keyring >= 0.10.1
+
+# Based on: PYSEC-2019-29
+# Source: https://github.com/pypa/advisory-database/keystone/PYSEC-2019-29.yaml
+keystone >= 16.0.1
+
+# Based on: PYSEC-2016-20
+# Source: https://github.com/pypa/advisory-database/keystonemiddleware/PYSEC-2016-20.yaml
+keystonemiddleware >= 2.3.3
+
+# Based on: PYSEC-2018-116
+# Source: https://github.com/pypa/advisory-database/knowledge-repo/PYSEC-2018-116.yaml
+knowledge-repo >= 0.7.5
+
+# Based on: PYSEC-2019-183
+# Source: https://github.com/pypa/advisory-database/koji/PYSEC-2019-183.yaml
+koji >= 1.19.0
+
+# Based on: PYSEC-2018-10
+# Source: https://github.com/pypa/advisory-database/kotti/PYSEC-2018-10.yaml
+kotti >= 1.3.2
+
+# Based on: PYSEC-2022-300
+# Source: https://github.com/pypa/advisory-database/label-studio/PYSEC-2022-300.yaml
+label-studio >= 1.5.0.post0
+
+# Based on: PYSEC-2019-184
+# Source: https://github.com/pypa/advisory-database/ladon/PYSEC-2019-184.yaml
+ladon >= 1.0.0
+
+# Based on: PYSEC-2024-43
+# Source: https://github.com/pypa/advisory-database/langchain/PYSEC-2024-43.yaml
+langchain >= 0.1.11
+
+# Based on: PYSEC-2024-45
+# Source: https://github.com/pypa/advisory-database/langchain-core/PYSEC-2024-45.yaml
+langchain-core >= 0.1.11
+
+# No safe versions exist for langchain-experimental!
+# See: https://github.com/pypa/advisory-database/langchain-experimental
+langchain-experimental < 0.0.0
+
+# Based on: PYSEC-2023-19
+# Source: https://github.com/pypa/advisory-database/ldapcherry/PYSEC-2023-19.yaml
+ldapcherry >= 1.0.0
+
+# Based on: PYSEC-2024-49
+# Source: https://github.com/pypa/advisory-database/lektor/PYSEC-2024-49.yaml
+lektor >= 3.3.11
+
+# Based on: PYSEC-2023-20
+# Source: https://github.com/pypa/advisory-database/lemur/PYSEC-2023-20.yaml
+lemur >= 1.3.2
+
+# Based on: PYSEC-2021-338
+# Source: https://github.com/pypa/advisory-database/leo/PYSEC-2021-338.yaml
+leo >= 6.3
+
+# Based on: PYSEC-2020-59
+# Source: https://github.com/pypa/advisory-database/libtaxii/PYSEC-2020-59.yaml
+libtaxii >= 1.1.118
+
+# Based on: PYSEC-2022-163
+# Source: https://github.com/pypa/advisory-database/libvcs/PYSEC-2022-163.yaml
+libvcs >= 0.11.1
+
+# Based on: PYSEC-2022-274
+# Source: https://github.com/pypa/advisory-database/lief/PYSEC-2022-274.yaml
+lief >= 0.12.1
+
+# Based on: PYSEC-2019-102
+# Source: https://github.com/pypa/advisory-database/limnoria/PYSEC-2019-102.yaml
+limnoria >= 2019.11.09
+
+# No safe versions exist for lin-cms!
+# See: https://github.com/pypa/advisory-database/lin-cms
+lin-cms < 0.0.0
+
+# Based on: PYSEC-2019-103
+# Source: https://github.com/pypa/advisory-database/linotp/PYSEC-2019-103.yaml
+linotp >= 2.11.1
+
+# Based on: PYSEC-2024-12
+# Source: https://github.com/pypa/advisory-database/llama-index/PYSEC-2024-12.yaml
+llama-index >= 0.9.35
+
+# Based on: PYSEC-2019-236
+# Source: https://github.com/pypa/advisory-database/lmdb/PYSEC-2019-236.yaml
+lmdb >= 0.98
+
+# Based on: PYSEC-2021-101
+# Source: https://github.com/pypa/advisory-database/localstack/PYSEC-2021-101.yaml
+localstack >= 0.12.6.1
+
+# Based on: PYSEC-2020-60
+# Source: https://github.com/pypa/advisory-database/locust/PYSEC-2020-60.yaml
+locust >= 1.3.2
+
+# Based on: PYSEC-2014-83
+# Source: https://github.com/pypa/advisory-database/logilab-common/PYSEC-2014-83.yaml
+logilab-common >= 0.60.1
+
+# Based on: PYSEC-2022-14
+# Source: https://github.com/pypa/advisory-database/loguru/PYSEC-2022-14.yaml
+loguru >= 0.5.3
+
+# Based on: PYSEC-2020-61
+# Source: https://github.com/pypa/advisory-database/lookatme/PYSEC-2020-61.yaml
+lookatme >= 2.3.0
+
+# Based on: PYSEC-2023-21
+# Source: https://github.com/pypa/advisory-database/lti-consumer-xblock/PYSEC-2023-21.yaml
+lti-consumer-xblock >= 7.2.2
+
+# Based on: PYSEC-2018-11
+# Source: https://github.com/pypa/advisory-database/luigi/PYSEC-2018-11.yaml
+luigi >= 2.8.0
+
+# No safe versions exist for lxdui!
+# See: https://github.com/pypa/advisory-database/lxdui
+lxdui < 0.0.0
+
+# Based on: PYSEC-2022-230
+# Source: https://github.com/pypa/advisory-database/lxml/PYSEC-2022-230.yaml
+lxml >= 4.9.1
+
+# Based on: PYSEC-2023-64
+# Source: https://github.com/pypa/advisory-database/mage-ai/PYSEC-2023-64.yaml
+mage-ai >= 0.8.72
+
+# Based on: PYSEC-2023-22
+# Source: https://github.com/pypa/advisory-database/mailman/PYSEC-2023-22.yaml
+mailman >= 3.3.5
+
+# Based on: PYSEC-2022-260
+# Source: https://github.com/pypa/advisory-database/mako/PYSEC-2022-260.yaml
+mako >= 1.2.2
+
+# Based on: PYSEC-2022-264
+# Source: https://github.com/pypa/advisory-database/mangadex-downloader/PYSEC-2022-264.yaml
+mangadex-downloader >= 1.7.2
+
+# Based on: PYSEC-2020-63
+# Source: https://github.com/pypa/advisory-database/manila/PYSEC-2020-63.yaml
+manila >= 9.1.1
+
+# Based on: PYSEC-2022-185
+# Source: https://github.com/pypa/advisory-database/marcador/PYSEC-2022-185.yaml
+marcador >= 0.14
+
+# Based on: PYSEC-2023-23
+# Source: https://github.com/pypa/advisory-database/markdown-it-py/PYSEC-2023-23.yaml
+markdown-it-py >= 2.2.0
+
+# Based on: PYSEC-2021-20
+# Source: https://github.com/pypa/advisory-database/markdown2/PYSEC-2021-20.yaml
+markdown2 >= 2.4.0
+
+# Based on: PYSEC-2018-67
+# Source: https://github.com/pypa/advisory-database/marshmallow/PYSEC-2018-67.yaml
+marshmallow >= 3.0.0b9
+
+# Based on: PYSEC-2022-223
+# Source: https://github.com/pypa/advisory-database/mat2/PYSEC-2022-223.yaml
+mat2 >= 0.13.0
+
+# Based on: PYSEC-2023-139
+# Source: https://github.com/pypa/advisory-database/matrix-sydent/PYSEC-2023-139.yaml
+matrix-sydent >= 2.5.6
+
+# Based on: PYSEC-2024-50
+# Source: https://github.com/pypa/advisory-database/matrix-synapse/PYSEC-2024-50.yaml
+matrix-synapse >= 1.105.1
+
+# Based on: PYSEC-2018-15
+# Source: https://github.com/pypa/advisory-database/mayan-edms/PYSEC-2018-15.yaml
+mayan-edms >= 3.0.3
+
+# Based on: PYSEC-2018-16
+# Source: https://github.com/pypa/advisory-database/mayan-edms-ng/PYSEC-2018-16.yaml
+mayan-edms-ng >= 3.0.2
+
+# Based on: PYSEC-2023-108
+# Source: https://github.com/pypa/advisory-database/mechanicalsoup/PYSEC-2023-108.yaml
+mechanicalsoup >= 1.3.0
+
+# Based on: PYSEC-2023-25
+# Source: https://github.com/pypa/advisory-database/mechanize/PYSEC-2023-25.yaml
+mechanize >= 0.4.6
+
+# Based on: PYSEC-2020-239
+# Source: https://github.com/pypa/advisory-database/meinheld/PYSEC-2020-239.yaml
+meinheld >= 1.0.2
+
+# Based on: PYSEC-2019-188
+# Source: https://github.com/pypa/advisory-database/mercurial/PYSEC-2019-188.yaml
+mercurial >= 4.9
+
+# Based on: PYSEC-2024-9
+# Source: https://github.com/pypa/advisory-database/metagpt/PYSEC-2024-9.yaml
+metagpt >= 0.6.5
+
+# No safe versions exist for mezzanine!
+# See: https://github.com/pypa/advisory-database/mezzanine
+mezzanine < 0.0.0
+
+# No safe versions exist for micropython-copy!
+# See: https://github.com/pypa/advisory-database/micropython-copy
+micropython-copy < 0.0.0
+
+# No safe versions exist for micropython-io!
+# See: https://github.com/pypa/advisory-database/micropython-io
+micropython-io < 0.0.0
+
+# No safe versions exist for micropython-os!
+# See: https://github.com/pypa/advisory-database/micropython-os
+micropython-os < 0.0.0
+
+# No safe versions exist for micropython-select!
+# See: https://github.com/pypa/advisory-database/micropython-select
+micropython-select < 0.0.0
+
+# Based on: PYSEC-2023-140
+# Source: https://github.com/pypa/advisory-database/mindsdb/PYSEC-2023-140.yaml
+mindsdb >= 23.7.4.0
+
+# No safe versions exist for mindspore!
+# See: https://github.com/pypa/advisory-database/mindspore
+mindspore < 0.0.0
+
+# Based on: PYSEC-2020-66
+# Source: https://github.com/pypa/advisory-database/misp-maltego/PYSEC-2020-66.yaml
+misp-maltego >= 1.4.5
+
+# Based on: PYSEC-2020-240
+# Source: https://github.com/pypa/advisory-database/mistral/PYSEC-2020-240.yaml
+mistral >= 7.0.4
+
+# Based on: PYSEC-2022-237
+# Source: https://github.com/pypa/advisory-database/mistune/PYSEC-2022-237.yaml
+mistune >= 2.0.3
+
+# Based on: PYSEC-2022-170
+# Source: https://github.com/pypa/advisory-database/mitmproxy/PYSEC-2022-170.yaml
+mitmproxy >= 8.0.0
+
+# Based on: PYSEC-2019-104
+# Source: https://github.com/pypa/advisory-database/mitogen/PYSEC-2019-104.yaml
+mitogen >= 0.2.8
+
+# Based on: PYSEC-2021-878
+# Source: https://github.com/pypa/advisory-database/mkdocs/PYSEC-2021-878.yaml
+mkdocs >= 1.2.3
+
+# Based on: PYSEC-2022-215
+# Source: https://github.com/pypa/advisory-database/ml-scanner/PYSEC-2022-215.yaml
+ml-scanner >= 0.1.7
+
+# Based on: PYSEC-2017-19
+# Source: https://github.com/pypa/advisory-database/mlalchemy/PYSEC-2017-19.yaml
+mlalchemy >= 0.2.2
+
+# Based on: PYSEC-2024-51
+# Source: https://github.com/pypa/advisory-database/mlflow/PYSEC-2024-51.yaml
+mlflow >= 2.10.1
+
+# Based on: PYSEC-2022-254
+# Source: https://github.com/pypa/advisory-database/mod-wsgi/PYSEC-2022-254.yaml
+mod-wsgi >= 4.9.3
+
+# Based on: PYSEC-2023-215
+# Source: https://github.com/pypa/advisory-database/modoboa/PYSEC-2023-215.yaml
+modoboa >= 2.2.2
+
+# Based on: PYSEC-2019-105
+# Source: https://github.com/pypa/advisory-database/modoboa-dmarc/PYSEC-2019-105.yaml
+modoboa-dmarc >= 1.2.0
+
+# Based on: PYSEC-2019-153
+# Source: https://github.com/pypa/advisory-database/modulemd/PYSEC-2019-153.yaml
+modulemd >= 1.3.2
+
+# Based on: PYSEC-2020-241
+# Source: https://github.com/pypa/advisory-database/moin/PYSEC-2020-241.yaml
+moin >= 1.9.11
+
+# Based on: PYSEC-2021-427
+# Source: https://github.com/pypa/advisory-database/mpmath/PYSEC-2021-427.yaml
+mpmath >= 1.3.0
+
+# Based on: PYSEC-2022-42996
+# Source: https://github.com/pypa/advisory-database/mpxj/PYSEC-2022-42996.yaml
+mpxj >= 10.14.1
+
+# No safe versions exist for mycli!
+# See: https://github.com/pypa/advisory-database/mycli
+mycli < 0.0.0
+
+# Based on: PYSEC-2021-383
+# Source: https://github.com/pypa/advisory-database/nameko/PYSEC-2021-383.yaml
+nameko >= 2.14.0
+
+# Based on: PYSEC-2021-432
+# Source: https://github.com/pypa/advisory-database/nanopb/PYSEC-2021-432.yaml
+nanopb >= 0.4.5
+
+# Based on: PYSEC-2024-16
+# Source: https://github.com/pypa/advisory-database/nautobot/PYSEC-2024-16.yaml
+nautobot >= 2.1.2
+
+# Based on: PYSEC-2022-249
+# Source: https://github.com/pypa/advisory-database/nbconvert/PYSEC-2022-249.yaml
+nbconvert >= 6.3.0a0
+
+# Based on: PYSEC-2021-428
+# Source: https://github.com/pypa/advisory-database/nbdime/PYSEC-2021-428.yaml
+nbdime >= 3.1.1
+
+# Based on: PYSEC-2021-315
+# Source: https://github.com/pypa/advisory-database/nbgitpuller/PYSEC-2021-315.yaml
+nbgitpuller >= 0.10.2
+
+# Based on: PYSEC-2020-242
+# Source: https://github.com/pypa/advisory-database/netius/PYSEC-2020-242.yaml
+netius >= 1.17.58
+
+# Based on: PYSEC-2021-329
+# Source: https://github.com/pypa/advisory-database/neutron/PYSEC-2021-329.yaml
+neutron >= 18.1.1
+
+# Based on: PYSEC-2021-68
+# Source: https://github.com/pypa/advisory-database/nfstream/PYSEC-2021-68.yaml
+nfstream >= 6.0.0
+
+# Based on: PYSEC-2022-5
+# Source: https://github.com/pypa/advisory-database/nltk/PYSEC-2022-5.yaml
+nltk >= 3.6.6
+
+# Based on: PYSEC-2019-107
+# Source: https://github.com/pypa/advisory-database/nnabla/PYSEC-2019-107.yaml
+nnabla >= 1.0.15
+
+# Based on: PYSEC-2024-37
+# Source: https://github.com/pypa/advisory-database/nonebot2/PYSEC-2024-37.yaml
+nonebot2 >= 2.2.0
+
+# Based on: PYSEC-2022-212
+# Source: https://github.com/pypa/advisory-database/notebook/PYSEC-2022-212.yaml
+notebook >= 6.4.12
+
+# Based on: PYSEC-2020-243
+# Source: https://github.com/pypa/advisory-database/nova/PYSEC-2020-243.yaml
+nova >= 21.1.0
+
+# Based on: PYSEC-2017-21
+# Source: https://github.com/pypa/advisory-database/nova-lxd/PYSEC-2017-21.yaml
+nova-lxd >= 13.1.1
+
+# Based on: PYSEC-2019-192
+# Source: https://github.com/pypa/advisory-database/novajoin/PYSEC-2019-192.yaml
+novajoin >= 1.1.1
+
+# Based on: PYSEC-2022-209
+# Source: https://github.com/pypa/advisory-database/nuitka/PYSEC-2022-209.yaml
+nuitka >= 0.9
+
+# No safe versions exist for numexpr!
+# See: https://github.com/pypa/advisory-database/numexpr
+numexpr < 0.0.0
+
+# Based on: PYSEC-2017-1, PYSEC-2018-33, PYSEC-2018-34, PYSEC-2019-108, PYSEC-2021-854, PYSEC-2021-855, PYSEC-2021-856, PYSEC-2021-857
+# Source: https://github.com/pypa/advisory-database/numpy
+numpy != 1.13.0rc2
+numpy != 1.16.3
+numpy != 1.9.2
+numpy != 1.15.3
+numpy != 1.15.0
+numpy != 1.16.0rc2
+numpy != 1.0b5
+numpy != 1.14.0rc1
+numpy != 1.17.0rc1
+numpy != 1.19.0
+numpy != 1.8.1
+numpy != 1.11.0
+numpy != 1.18.0rc1
+numpy != 1.14.0
+numpy != 1.17.0
+numpy != 1.18.1
+numpy != 1.0rc2
+numpy != 1.0b1
+numpy != 1.13.1
+numpy != 1.9.1
+numpy != 1.11.3
+numpy != 1.6.1
+numpy != 1.16.4
+numpy != 1.8.0
+numpy != 1.10.0
+numpy != 1.14.2
+numpy != 1.17.3
+numpy != 1.4.0
+numpy != 1.6.2
+numpy != 1.15.1
+numpy != 1.19.0rc2
+numpy != 1.6.0
+numpy != 1.5.0
+numpy != 1.0rc3
+numpy != 1.9.3
+numpy != 1.11.2
+numpy != 1.10.3
+numpy != 1.13.3
+numpy != 1.10.2
+numpy != 1.2.0
+numpy != 1.0b4
+numpy != 1.9.0
+numpy != 1.18.2
+numpy != 1.0.3
+numpy != 1.15.0rc1
+numpy != 1.3.0
+numpy != 1.0.4
+numpy != 1.14.4
+numpy != 1.18.5
+numpy != 1.16.1
+numpy != 1.16.5
+numpy != 1.13.0
+numpy != 1.18.4
+numpy != 1.10.4
+numpy != 1.4.1
+numpy != 1.16.0rc1
+numpy != 1.7.0
+numpy != 1.13.0rc1
+numpy != 1.8.2
+numpy != 0.9.6
+numpy != 1.16.2
+numpy != 1.7.2
+numpy != 1.17.5
+numpy != 0.9.8
+numpy != 1.18.0
+numpy != 1.17.2
+numpy != 1.17.1
+numpy != 1.7.1
+numpy != 1.14.5
+numpy != 1.14.6
+numpy != 1.15.0rc2
+numpy != 1.11.1
+numpy != 1.12.0
+numpy != 1.19.0rc1
+numpy != 1.16.0
+numpy != 1.12.1
+numpy != 1.14.3
+numpy != 1.14.1
+numpy != 1.16.6
+numpy != 1.0rc1
+numpy != 1.5.1
+numpy != 1.18.3
+numpy != 1.15.4
+numpy != 1.17.4
+numpy != 1.10.1
+numpy != 1.2.1
+numpy != 1.17.0rc2
+numpy != 1.1.1
+numpy != 1.0
+numpy != 1.15.2
+
+# Based on: PYSEC-2022-257
+# Source: https://github.com/pypa/advisory-database/nvflare/PYSEC-2022-257.yaml
+nvflare >= 2.1.4
+
+# Based on: PYSEC-2014-85
+# Source: https://github.com/pypa/advisory-database/oauth2/PYSEC-2014-85.yaml
+oauth2 >= 1.9rc1
+
+# Based on: PYSEC-2022-206
+# Source: https://github.com/pypa/advisory-database/oauthenticator/PYSEC-2022-206.yaml
+oauthenticator >= 15.0.0
+
+# Based on: PYSEC-2022-269
+# Source: https://github.com/pypa/advisory-database/oauthlib/PYSEC-2022-269.yaml
+oauthlib >= 3.2.1
+
+# Based on: PYSEC-2019-193
+# Source: https://github.com/pypa/advisory-database/octavia/PYSEC-2019-193.yaml
+octavia >= 3.0.2
+
+# Based on: PYSEC-2022-235
+# Source: https://github.com/pypa/advisory-database/octobot/PYSEC-2022-235.yaml
+octobot >= 0.4.4
+
+# Based on: PYSEC-2024-29
+# Source: https://github.com/pypa/advisory-database/octoprint/PYSEC-2024-29.yaml
+octoprint >= 1.10.0rc1
+
+# Based on: PYSEC-2020-69
+# Source: https://github.com/pypa/advisory-database/oic/PYSEC-2020-69.yaml
+oic >= 1.2.1
+
+# Based on: PYSEC-2021-379
+# Source: https://github.com/pypa/advisory-database/omero-figure/PYSEC-2021-379.yaml
+omero-figure >= 4.4.1
+
+# Based on: PYSEC-2021-372
+# Source: https://github.com/pypa/advisory-database/omero-web/PYSEC-2021-372.yaml
+omero-web >= 5.11.0
+
+# Based on: PYSEC-2021-33
+# Source: https://github.com/pypa/advisory-database/oncall/PYSEC-2021-33.yaml
+oncall >= 1.4.1
+
+# Based on: PYSEC-2021-344
+# Source: https://github.com/pypa/advisory-database/onefuzz/PYSEC-2021-344.yaml
+onefuzz >= 2.31.0
+
+# Based on: PYSEC-2022-39
+# Source: https://github.com/pypa/advisory-database/onionshare-cli/PYSEC-2022-39.yaml
+onionshare-cli >= 2.5
+
+# Based on: PYSEC-2023-38
+# Source: https://github.com/pypa/advisory-database/onnx/PYSEC-2023-38.yaml
+onnx >= 1.13.0
+
+# Based on: PYSEC-2020-70
+# Source: https://github.com/pypa/advisory-database/openapi-python-client/PYSEC-2020-70.yaml
+openapi-python-client >= 0.5.3
+
+# Based on: PYSEC-2023-181
+# Source: https://github.com/pypa/advisory-database/opencv-contrib-python/PYSEC-2023-181.yaml
+opencv-contrib-python >= 4.8.1.78
+
+# Based on: PYSEC-2023-182
+# Source: https://github.com/pypa/advisory-database/opencv-contrib-python-headless/PYSEC-2023-182.yaml
+opencv-contrib-python-headless >= 4.8.1.78
+
+# Based on: PYSEC-2023-183
+# Source: https://github.com/pypa/advisory-database/opencv-python/PYSEC-2023-183.yaml
+opencv-python >= 4.8.1.78
+
+# Based on: PYSEC-2023-184
+# Source: https://github.com/pypa/advisory-database/opencv-python-headless/PYSEC-2023-184.yaml
+opencv-python-headless >= 4.8.1.78
+
+# Based on: PYSEC-2017-48
+# Source: https://github.com/pypa/advisory-database/openpyxl/PYSEC-2017-48.yaml
+openpyxl >= 2.4.1
+
+# Based on: PYSEC-2020-72
+# Source: https://github.com/pypa/advisory-database/openslides/PYSEC-2020-72.yaml
+openslides >= 3.3
+
+# Based on: PYSEC-2022-233
+# Source: https://github.com/pypa/advisory-database/openssh-key-parser/PYSEC-2022-233.yaml
+openssh-key-parser >= 0.0.6
+
+# No safe versions exist for openvpn-monitor!
+# See: https://github.com/pypa/advisory-database/openvpn-monitor
+openvpn-monitor < 0.0.0
+
+# Based on: PYSEC-2023-39
+# Source: https://github.com/pypa/advisory-database/openzeppelin-cairo-contracts/PYSEC-2023-39.yaml
+openzeppelin-cairo-contracts >= 0.6.1
+
+# Based on: PYSEC-2021-380
+# Source: https://github.com/pypa/advisory-database/ops-cli/PYSEC-2021-380.yaml
+ops-cli >= 2.0.5
+
+# Based on: PYSEC-2024-40
+# Source: https://github.com/pypa/advisory-database/orjson/PYSEC-2024-40.yaml
+orjson >= 3.9.15
+
+# Based on: PYSEC-2018-104
+# Source: https://github.com/pypa/advisory-database/oslo-middleware/PYSEC-2018-104.yaml
+oslo-middleware >= 3.23.1
+
+# Based on: PYSEC-2022-258
+# Source: https://github.com/pypa/advisory-database/oslo-utils/PYSEC-2022-258.yaml
+oslo-utils >= 4.10.1
+
+# Based on: PYSEC-2018-95
+# Source: https://github.com/pypa/advisory-database/osxcollector/PYSEC-2018-95.yaml
+osxcollector >= 1.10
+
+# Based on: PYSEC-2020-245
+# Source: https://github.com/pypa/advisory-database/ovirt-engine-sdk-python/PYSEC-2020-245.yaml
+ovirt-engine-sdk-python >= 3.5.0.4
+
+# Based on: PYSEC-2017-22
+# Source: https://github.com/pypa/advisory-database/owlmixin/PYSEC-2017-22.yaml
+owlmixin >= 2.0.0
+
+# Based on: PYSEC-2023-86
+# Source: https://github.com/pypa/advisory-database/owslib/PYSEC-2023-86.yaml
+owslib >= 0.28.1
+
+# Based on: PYSEC-2023-93
+# Source: https://github.com/pypa/advisory-database/pacparser/PYSEC-2023-93.yaml
+pacparser >= 1.4.2
+
+# Based on: PYSEC-2023-122
+# Source: https://github.com/pypa/advisory-database/paddlepaddle/PYSEC-2023-122.yaml
+paddlepaddle >= 2.5.0
+
+# Based on: PYSEC-2020-73
+# Source: https://github.com/pypa/advisory-database/pandas
+pandas != 0.19.2
+pandas != 0.25.3
+pandas != 0.23.1
+pandas != 0.23.0rc2
+pandas != 0.3.0
+pandas != 0.4.2
+pandas != 0.16.0
+pandas != 0.16.2
+pandas != 0.20.0
+pandas != 0.19.0rc1
+pandas != 0.20.3
+pandas != 0.9.1
+pandas != 0.15.2
+pandas != 0.19.0
+pandas != 0.25.1
+pandas != 0.9.0
+pandas != 0.8.1
+pandas != 0.13.0
+pandas != 0.21.1
+pandas != 0.15.1
+pandas != 0.22.0
+pandas != 0.14.0
+pandas != 0.23.2
+pandas != 0.3.0.beta2
+pandas != 0.20.0rc1
+pandas != 1.0.0rc0
+pandas != 0.2b1
+pandas != 0.6.1
+pandas != 0.13.1
+pandas != 1.0.2
+pandas != 0.6.0
+pandas != 0.25.0rc0
+pandas != 0.7.3
+pandas != 0.25.2
+pandas != 0.2
+pandas != 0.14.1
+pandas != 0.18.1
+pandas != 0.23.4
+pandas != 0.8.0
+pandas != 0.23.0
+pandas != 0.2beta
+pandas != 0.4.0
+pandas != 0.10.1
+pandas != 0.16.1
+pandas != 0.24.0
+pandas != 0.7.1
+pandas != 0.18.0
+pandas != 0.20.2
+pandas != 0.21.0rc1
+pandas != 1.0.0
+pandas != 1.0.3
+pandas != 0.17.1
+pandas != 0.21.0
+pandas != 0.10.0
+pandas != 0.17.0
+pandas != 0.7.0
+pandas != 0.12.0
+pandas != 0.20.1
+pandas != 0.24.2
+pandas != 1.0.1
+pandas != 0.23.3
+pandas != 0.3.0.beta
+pandas != 0.7.2
+pandas != 0.15.0
+pandas != 0.11.0
+pandas != 0.24.0rc1
+pandas != 0.4.3
+pandas != 0.4.1
+pandas != 0.5.0
+pandas != 0.8.0rc1
+pandas != 0.1
+pandas != 0.24.1
+pandas != 0.8.0rc2
+pandas != 0.19.1
+pandas != 0.25.0
+
+# Based on: PYSEC-2020-74
+# Source: https://github.com/pypa/advisory-database/papermerge/PYSEC-2020-74.yaml
+papermerge >= 1.5.2
+
+# Based on: PYSEC-2022-166
+# Source: https://github.com/pypa/advisory-database/paramiko/PYSEC-2022-166.yaml
+paramiko >= 2.10.1
+
+# Based on: PYSEC-2021-330
+# Source: https://github.com/pypa/advisory-database/parlai/PYSEC-2021-330.yaml
+parlai >= 1.1.0
+
+# Based on: PYSEC-2019-109
+# Source: https://github.com/pypa/advisory-database/parso/PYSEC-2019-109.yaml
+parso >= 0.5.0
+
+# Based on: PYSEC-2022-42997
+# Source: https://github.com/pypa/advisory-database/passeo/PYSEC-2022-42997.yaml
+passeo >= 1.0.5
+
+# Based on: PYSEC-2012-15
+# Source: https://github.com/pypa/advisory-database/paste/PYSEC-2012-15.yaml
+paste >= 1.7.5.1
+
+# Based on: PYSEC-2022-216
+# Source: https://github.com/pypa/advisory-database/perdido/PYSEC-2022-216.yaml
+perdido >= 0.0.3
+
+# Based on: PYSEC-2020-75
+# Source: https://github.com/pypa/advisory-database/petl/PYSEC-2020-75.yaml
+petl >= 1.6.8
+
+# Based on: PYSEC-2023-173
+# Source: https://github.com/pypa/advisory-database/piccolo/PYSEC-2023-173.yaml
+piccolo >= 0.121.0
+
+# Based on: PYSEC-2021-34
+# Source: https://github.com/pypa/advisory-database/pikepdf/PYSEC-2021-34.yaml
+pikepdf >= 2.10.0
+
+# Based on: PYSEC-2023-175
+# Source: https://github.com/pypa/advisory-database/pillow/PYSEC-2023-175.yaml
+pillow >= 10.0.1
+
+# Based on: PYSEC-2023-228
+# Source: https://github.com/pypa/advisory-database/pip/PYSEC-2023-228.yaml
+pip >= 23.3
+
+# Based on: PYSEC-2022-6
+# Source: https://github.com/pypa/advisory-database/pipenv/PYSEC-2022-6.yaml
+pipenv >= 2022.1.8
+
+# Based on: PYSEC-2023-99
+# Source: https://github.com/pypa/advisory-database/pipreqs/PYSEC-2023-99.yaml
+pipreqs >= 0.4.12
+
+# Based on: PYSEC-2023-71
+# Source: https://github.com/pypa/advisory-database/planet/PYSEC-2023-71.yaml
+planet >= 2.0.1
+
+# Based on: PYSEC-2021-110
+# Source: https://github.com/pypa/advisory-database/plone/PYSEC-2021-110.yaml
+plone >= 5.2.5
+
+# No safe versions exist for plone-rest!
+# See: https://github.com/pypa/advisory-database/plone-rest
+plone-rest < 0.0.0
+
+# Based on: PYSEC-2022-234
+# Source: https://github.com/pypa/advisory-database/poetry/PYSEC-2022-234.yaml
+poetry >= 1.1.9
+
+# Based on: PYSEC-2024-10
+# Source: https://github.com/pypa/advisory-database/portage/PYSEC-2024-10.yaml
+portage >= 3.0.47
+
+# Based on: PYSEC-2020-174
+# Source: https://github.com/pypa/advisory-database/postfix-mta-sts-resolver/PYSEC-2020-174.yaml
+postfix-mta-sts-resolver >= 0.5.1
+
+# Based on: PYSEC-2021-319
+# Source: https://github.com/pypa/advisory-database/postorius/PYSEC-2021-319.yaml
+postorius >= 1.3.5
+
+# Based on: PYSEC-2023-40
+# Source: https://github.com/pypa/advisory-database/pretalx/PYSEC-2023-40.yaml
+pretalx >= 2.3.2
+
+# Based on: PYSEC-2023-187
+# Source: https://github.com/pypa/advisory-database/pretix/PYSEC-2023-187.yaml
+pretix >= 2023.7.1
+
+# Based on: PYSEC-2017-93
+# Source: https://github.com/pypa/advisory-database/priority/PYSEC-2017-93.yaml
+priority >= 1.2.0
+
+# Based on: PYSEC-2018-20
+# Source: https://github.com/pypa/advisory-database/privacyidea/PYSEC-2018-20.yaml
+privacyidea >= 2.23.2
+
+# Based on: PYSEC-2022-21
+# Source: https://github.com/pypa/advisory-database/products-atcontenttypes/PYSEC-2022-21.yaml
+products-atcontenttypes >= 3.0.6
+
+# Based on: PYSEC-2023-113
+# Source: https://github.com/pypa/advisory-database/products-cmfcore/PYSEC-2023-113.yaml
+products-cmfcore >= 3.2
+
+# Based on: PYSEC-2014-67
+# Source: https://github.com/pypa/advisory-database/products-cmfplone/PYSEC-2014-67.yaml
+products-cmfplone >= 4.3.3
+
+# Based on: PYSEC-2021-43
+# Source: https://github.com/pypa/advisory-database/products-genericsetup/PYSEC-2021-43.yaml
+products-genericsetup >= 2.1.1
+
+# Based on: PYSEC-2021-323
+# Source: https://github.com/pypa/advisory-database/products-isurlinportal/PYSEC-2021-323.yaml
+products-isurlinportal >= 1.2.0
+
+# Based on: PYSEC-2021-45
+# Source: https://github.com/pypa/advisory-database/products-pluggableauthservice/PYSEC-2021-45.yaml
+products-pluggableauthservice >= 2.6.1
+
+# Based on: PYSEC-2021-111
+# Source: https://github.com/pypa/advisory-database/projen/PYSEC-2021-111.yaml
+projen >= 0.16.41
+
+# Based on: PYSEC-2022-48
+# Source: https://github.com/pypa/advisory-database/protobuf/PYSEC-2022-48.yaml
+protobuf >= 3.15.0
+
+# Based on: PYSEC-2021-46
+# Source: https://github.com/pypa/advisory-database/proxy-py/PYSEC-2021-46.yaml
+proxy-py >= 2.3.1
+
+# Based on: PYSEC-2020-91
+# Source: https://github.com/pypa/advisory-database/psd-tools/PYSEC-2020-91.yaml
+psd-tools >= 1.9.4
+
+# Based on: PYSEC-2023-43
+# Source: https://github.com/pypa/advisory-database/psiturk/PYSEC-2023-43.yaml
+psiturk >= 3.2.1
+
+# Based on: PYSEC-2019-41
+# Source: https://github.com/pypa/advisory-database/psutil/PYSEC-2019-41.yaml
+psutil >= 5.6.6
+
+# Based on: PYSEC-2021-72
+# Source: https://github.com/pypa/advisory-database/pwntools/PYSEC-2021-72.yaml
+pwntools >= 4.3.1
+
+# Based on: PYSEC-2020-92
+# Source: https://github.com/pypa/advisory-database/py/PYSEC-2020-92.yaml
+py >= 1.10.0
+
+# Based on: PYSEC-2020-249
+# Source: https://github.com/pypa/advisory-database/py-bcrypt/PYSEC-2020-249.yaml
+py-bcrypt >= 0.3
+
+# Based on: PYSEC-2018-96
+# Source: https://github.com/pypa/advisory-database/py-evm/PYSEC-2018-96.yaml
+py-evm >= 0.2.0a33
+
+# Based on: PYSEC-2020-93
+# Source: https://github.com/pypa/advisory-database/py-mini-racer/PYSEC-2020-93.yaml
+py-mini-racer >= 0.3.0
+
+# No safe versions exist for py-xml!
+# See: https://github.com/pypa/advisory-database/py-xml
+py-xml < 0.0.0
+
+# Based on: PYSEC-2022-42998
+# Source: https://github.com/pypa/advisory-database/py7zr/PYSEC-2022-42998.yaml
+py7zr >= 0.20.1
+
+# Based on: PYSEC-2020-339
+# Source: https://github.com/pypa/advisory-database/pyamf/PYSEC-2020-339.yaml
+pyamf >= 0.8.0
+
+# Based on: PYSEC-2017-23
+# Source: https://github.com/pypa/advisory-database/pyanyapi/PYSEC-2017-23.yaml
+pyanyapi >= 0.6.1
+
+# Based on: PYSEC-2019-112
+# Source: https://github.com/pypa/advisory-database/pyarchery/PYSEC-2019-112.yaml
+pyarchery >= 1.3.0
+
+# Based on: PYSEC-2023-238
+# Source: https://github.com/pypa/advisory-database/pyarrow/PYSEC-2023-238.yaml
+pyarrow >= 14.0.1
+
+# Based on: PYSEC-2021-849
+# Source: https://github.com/pypa/advisory-database/pybluemonday/PYSEC-2021-849.yaml
+pybluemonday >= 0.0.8
+
+# Based on: PYSEC-2022-242
+# Source: https://github.com/pypa/advisory-database/pycrowdtangle/PYSEC-2022-242.yaml
+pycrowdtangle >= 0.0.3
+
+# Based on: PYSEC-2013-29
+# Source: https://github.com/pypa/advisory-database/pycrypto/PYSEC-2013-29.yaml
+pycrypto >= 2.6.1
+
+# Based on: PYSEC-2018-21
+# Source: https://github.com/pypa/advisory-database/pycryptodome/PYSEC-2018-21.yaml
+pycryptodome >= 3.6.6
+
+# Based on: PYSEC-2024-3
+# Source: https://github.com/pypa/advisory-database/pycryptodomex/PYSEC-2024-3.yaml
+pycryptodomex >= 3.19.1
+
+# Based on: PYSEC-2018-98
+# Source: https://github.com/pypa/advisory-database/pycsw/PYSEC-2018-98.yaml
+pycsw >= 2.0.2
+
+# Based on: PYSEC-2021-47
+# Source: https://github.com/pypa/advisory-database/pydantic/PYSEC-2021-47.yaml
+pydantic >= 1.8.2
+
+# Based on: PYSEC-2023-179
+# Source: https://github.com/pypa/advisory-database/pydash/PYSEC-2023-179.yaml
+pydash >= 6.0.0
+
+# Based on: PYSEC-2022-220
+# Source: https://github.com/pypa/advisory-database/pyesasky/PYSEC-2022-220.yaml
+pyesasky >= 1.4.3
+
+# Based on: PYSEC-2012-11
+# Source: https://github.com/pypa/advisory-database/pyfribidi/PYSEC-2012-11.yaml
+pyfribidi >= 0.11.0
+
+# Based on: PYSEC-2010-10
+# Source: https://github.com/pypa/advisory-database/pyftpdlib/PYSEC-2010-10.yaml
+pyftpdlib >= 0.5.2
+
+# Based on: PYSEC-2023-117
+# Source: https://github.com/pypa/advisory-database/pygments/PYSEC-2023-117.yaml
+pygments >= 2.15.1
+
+# Based on: PYSEC-2020-175
+# Source: https://github.com/pypa/advisory-database/pyinstaller/PYSEC-2020-175.yaml
+pyinstaller >= 3.6
+
+# Based on: PYSEC-2022-202
+# Source: https://github.com/pypa/advisory-database/pyjwt/PYSEC-2022-202.yaml
+pyjwt >= 2.4.0
+
+# Based on: PYSEC-2017-66
+# Source: https://github.com/pypa/advisory-database/pykerberos/PYSEC-2017-66.yaml
+pykerberos >= 1.1.6
+
+# Based on: PYSEC-2018-22
+# Source: https://github.com/pypa/advisory-database/pykmip/PYSEC-2018-22.yaml
+pykmip >= 0.8.0
+
+# Based on: PYSEC-2024-17
+# Source: https://github.com/pypa/advisory-database/pyload-ng/PYSEC-2024-17.yaml
+pyload-ng >= 0.5.0b3.dev78
+
+# Based on: PYSEC-2013-30
+# Source: https://github.com/pypa/advisory-database/pymongo/PYSEC-2013-30.yaml
+pymongo >= 2.5.2
+
+# No safe versions exist for pynetbox!
+# See: https://github.com/pypa/advisory-database/pynetbox
+pynetbox < 0.0.0
+
+# Based on: PYSEC-2018-23
+# Source: https://github.com/pypa/advisory-database/pyopenssl/PYSEC-2018-23.yaml
+pyopenssl >= 17.5.0
+
+# Based on: PYSEC-2022-194
+# Source: https://github.com/pypa/advisory-database/pypdf2/PYSEC-2022-194.yaml
+pypdf2 >= 1.27.5
+
+# No safe versions exist for pypinksign!
+# See: https://github.com/pypa/advisory-database/pypinksign
+pypinksign < 0.0.0
+
+# Based on: PYSEC-2019-113
+# Source: https://github.com/pypa/advisory-database/pypiserver/PYSEC-2019-113.yaml
+pypiserver >= 1.2.6
+
+# Based on: PYSEC-2021-86
+# Source: https://github.com/pypa/advisory-database/pyqlib/PYSEC-2021-86.yaml
+pyqlib >= 0.6.3
+
+# No safe versions exist for pyquest!
+# See: https://github.com/pypa/advisory-database/pyquest
+pyquest < 0.0.0
+
+# Based on: PYSEC-2019-154
+# Source: https://github.com/pypa/advisory-database/pyrad/PYSEC-2019-154.yaml
+pyrad >= 2.1
+
+# Based on: PYSEC-2018-99
+# Source: https://github.com/pypa/advisory-database/pyro/PYSEC-2018-99.yaml
+pyro >= 3.15
+
+# Based on: PYSEC-2021-48
+# Source: https://github.com/pypa/advisory-database/pysaml2/PYSEC-2021-48.yaml
+pysaml2 >= 6.5.0
+
+# Based on: PYSEC-2013-10
+# Source: https://github.com/pypa/advisory-database/pyshop/PYSEC-2013-10.yaml
+pyshop >= 0.7.1
+
+# Based on: PYSEC-2023-44
+# Source: https://github.com/pypa/advisory-database/pyspark/PYSEC-2023-44.yaml
+pyspark >= 3.4.0
+
+# Based on: PYSEC-2014-88
+# Source: https://github.com/pypa/advisory-database/python-bugzilla/PYSEC-2014-88.yaml
+python-bugzilla >= 0.9.0
+
+# Based on: PYSEC-2010-26
+# Source: https://github.com/pypa/advisory-database/python-cjson/PYSEC-2010-26.yaml
+python-cjson >= 1.1.0
+
+# Based on: PYSEC-2019-155
+# Source: https://github.com/pypa/advisory-database/python-dbusmock/PYSEC-2019-155.yaml
+python-dbusmock >= 0.15.1
+
+# Based on: PYSEC-2016-21
+# Source: https://github.com/pypa/advisory-database/python-docx/PYSEC-2016-21.yaml
+python-docx >= 0.8.6
+
+# Based on: PYSEC-2019-170
+# Source: https://github.com/pypa/advisory-database/python-engineio/PYSEC-2019-170.yaml
+python-engineio >= 3.9.0
+
+# Based on: PYSEC-2017-27
+# Source: https://github.com/pypa/advisory-database/python-fedora/PYSEC-2017-27.yaml
+python-fedora >= 0.9.0
+
+# Based on: PYSEC-2013-11
+# Source: https://github.com/pypa/advisory-database/python-glanceclient/PYSEC-2013-11.yaml
+python-glanceclient >= 0.10.0
+
+# Based on: PYSEC-2019-115
+# Source: https://github.com/pypa/advisory-database/python-gnupg/PYSEC-2019-115.yaml
+python-gnupg >= 0.4.4
+
+# Based on: PYSEC-2017-28
+# Source: https://github.com/pypa/advisory-database/python-jose/PYSEC-2017-28.yaml
+python-jose >= 1.3.2
+
+# Based on: PYSEC-2022-259
+# Source: https://github.com/pypa/advisory-database/python-jwt/PYSEC-2022-259.yaml
+python-jwt >= 3.3.4
+
+# Based on: PYSEC-2015-31
+# Source: https://github.com/pypa/advisory-database/python-keystoneclient/PYSEC-2015-31.yaml
+python-keystoneclient >= 1.4.0
+
+# Based on: PYSEC-2022-42999
+# Source: https://github.com/pypa/advisory-database/python-libnmap/PYSEC-2022-42999.yaml
+python-libnmap >= 0.7.3
+
+# Based on: PYSEC-2016-22
+# Source: https://github.com/pypa/advisory-database/python-muranoclient/PYSEC-2016-22.yaml
+python-muranoclient >= 0.8.5
+
+# Based on: PYSEC-2019-198
+# Source: https://github.com/pypa/advisory-database/python-saml/PYSEC-2019-198.yaml
+python-saml >= 2.4.0
+
+# Based on: PYSEC-2014-12
+# Source: https://github.com/pypa/advisory-database/python-swiftclient/PYSEC-2014-12.yaml
+python-swiftclient >= 2.0
+
+# No safe versions exist for pytigergraph!
+# See: https://github.com/pypa/advisory-database/pytigergraph
+pytigergraph < 0.0.0
+
+# Based on: PYSEC-2021-874
+# Source: https://github.com/pypa/advisory-database/pytorch-lightning/PYSEC-2021-874.yaml
+pytorch-lightning >= 1.6.0
+
+# No safe versions exist for pywasm3!
+# See: https://github.com/pypa/advisory-database/pywasm3
+pywasm3 < 0.0.0
+
+# Based on: PYSEC-2021-120
+# Source: https://github.com/pypa/advisory-database/pywb/PYSEC-2021-120.yaml
+pywb >= 2.6.0
+
+# Based on: PYSEC-2014-93
+# Source: https://github.com/pypa/advisory-database/pywbem/PYSEC-2014-93.yaml
+pywbem >= 0.8.1
+
+# Based on: PYSEC-2011-7
+# Source: https://github.com/pypa/advisory-database/pywebdav/PYSEC-2011-7.yaml
+pywebdav >= 0.9.4.1
+
+# Based on: PYSEC-2021-112
+# Source: https://github.com/pypa/advisory-database/pywin32/PYSEC-2021-112.yaml
+pywin32 >= 301
+
+# Based on: PYSEC-2021-121
+# Source: https://github.com/pypa/advisory-database/pywps/PYSEC-2021-121.yaml
+pywps >= 4.5.0
+
+# Based on: PYSEC-2014-95
+# Source: https://github.com/pypa/advisory-database/pyxdg/PYSEC-2014-95.yaml
+pyxdg >= 0.26
+
+# Based on: PYSEC-2021-142
+# Source: https://github.com/pypa/advisory-database/pyyaml/PYSEC-2021-142.yaml
+pyyaml >= 5.4
+
+# Based on: PYSEC-2013-25
+# Source: https://github.com/pypa/advisory-database/qpid-python/PYSEC-2013-25.yaml
+qpid-python >= 0.22
+
+# No safe versions exist for quokka!
+# See: https://github.com/pypa/advisory-database/quokka
+quokka < 0.0.0
+
+# Based on: PYSEC-2021-382
+# Source: https://github.com/pypa/advisory-database/qutebrowser/PYSEC-2021-382.yaml
+qutebrowser >= 2.4.0
+
+# Based on: PYSEC-2017-102
+# Source: https://github.com/pypa/advisory-database/radicale/PYSEC-2017-102.yaml
+radicale >= 1.1.2
+
+# Based on: PYSEC-2021-381
+# Source: https://github.com/pypa/advisory-database/rasa/PYSEC-2021-381.yaml
+rasa >= 2.8.10
+
+# Based on: PYSEC-2023-186
+# Source: https://github.com/pypa/advisory-database/rdiffweb/PYSEC-2023-186.yaml
+rdiffweb >= 2.8.4
+
+# Based on: PYSEC-2019-219
+# Source: https://github.com/pypa/advisory-database/recommender-xblock/PYSEC-2019-219.yaml
+recommender-xblock >= 1.3.1
+
+# Based on: PYSEC-2017-68
+# Source: https://github.com/pypa/advisory-database/recurly/PYSEC-2017-68.yaml
+recurly >= 2.6.2
+
+# Based on: PYSEC-2020-98
+# Source: https://github.com/pypa/advisory-database/red-dashboard/PYSEC-2020-98.yaml
+red-dashboard >= 0.1.7a
+
+# Based on: PYSEC-2020-267
+# Source: https://github.com/pypa/advisory-database/red-discordbot/PYSEC-2020-267.yaml
+red-discordbot >= 3.4.1
+
+# Based on: PYSEC-2023-46
+# Source: https://github.com/pypa/advisory-database/redis/PYSEC-2023-46.yaml
+redis >= 4.5.4
+
+# Based on: PYSEC-2019-116
+# Source: https://github.com/pypa/advisory-database/rediswrapper/PYSEC-2019-116.yaml
+rediswrapper >= 0.3.0
+
+# Based on: PYSEC-2023-236
+# Source: https://github.com/pypa/advisory-database/remarshal/PYSEC-2023-236.yaml
+remarshal >= 0.17.1
+
+# No safe versions exist for rencode!
+# See: https://github.com/pypa/advisory-database/rencode
+rencode < 0.0.0
+
+# Based on: PYSEC-2021-146
+# Source: https://github.com/pypa/advisory-database/reportlab/PYSEC-2021-146.yaml
+reportlab >= 3.5.55
+
+# No safe versions exist for request-util!
+# See: https://github.com/pypa/advisory-database/request-util
+request-util < 0.0.0
+
+# Based on: PYSEC-2023-74
+# Source: https://github.com/pypa/advisory-database/requests/PYSEC-2023-74.yaml
+requests >= 2.31.0
+
+# Based on: PYSEC-2019-200
+# Source: https://github.com/pypa/advisory-database/requests-kerberos/PYSEC-2019-200.yaml
+requests-kerberos >= 0.6
+
+# No safe versions exist for requests-xml!
+# See: https://github.com/pypa/advisory-database/requests-xml
+requests-xml < 0.0.0
+
+# No safe versions exist for restkit!
+# See: https://github.com/pypa/advisory-database/restkit
+restkit < 0.0.0
+
+# Based on: PYSEC-2023-159
+# Source: https://github.com/pypa/advisory-database/restrictedpython/PYSEC-2023-159.yaml
+restrictedpython >= 6.2
+
+# Based on: PYSEC-2015-32
+# Source: https://github.com/pypa/advisory-database/rhodecode/PYSEC-2015-32.yaml
+rhodecode >= 2.2.7
+
+# Based on: PYSEC-2022-219
+# Source: https://github.com/pypa/advisory-database/rootinteractive/PYSEC-2022-219.yaml
+rootinteractive >= 0.0.19
+
+# Based on: PYSEC-2018-100
+# Source: https://github.com/pypa/advisory-database/rope/PYSEC-2018-100.yaml
+rope >= 0.11.0
+
+# Based on: PYSEC-2019-201
+# Source: https://github.com/pypa/advisory-database/roundup/PYSEC-2019-201.yaml
+roundup >= 2.0.0
+
+# Based on: PYSEC-2019-202
+# Source: https://github.com/pypa/advisory-database/rply/PYSEC-2019-202.yaml
+rply >= 0.7.4
+
+# Based on: PYSEC-2024-44
+# Source: https://github.com/pypa/advisory-database/rpyc/PYSEC-2024-44.yaml
+rpyc >= 6.0.0
+
+# Based on: PYSEC-2020-100
+# Source: https://github.com/pypa/advisory-database/rsa/PYSEC-2020-100.yaml
+rsa >= 4.7
+
+# Based on: PYSEC-2020-250
+# Source: https://github.com/pypa/advisory-database/rtslib-fb/PYSEC-2020-250.yaml
+rtslib-fb >= 2.1.73
+
+# Based on: PYSEC-2021-433
+# Source: https://github.com/pypa/advisory-database/s3scanner/PYSEC-2021-433.yaml
+s3scanner >= 2.0.2
+
+# Based on: PYSEC-2020-101
+# Source: https://github.com/pypa/advisory-database/safety/PYSEC-2020-101.yaml
+safety >= 1.8.7
+
+# Based on: PYSEC-2023-166
+# Source: https://github.com/pypa/advisory-database/salt/PYSEC-2023-166.yaml
+salt >= 3006.2
+
+# Based on: PYSEC-2017-40
+# Source: https://github.com/pypa/advisory-database/sanic/PYSEC-2017-40.yaml
+sanic >= 0.5.1
+
+# Based on: PYSEC-2020-251
+# Source: https://github.com/pypa/advisory-database/scalyr-agent-2/PYSEC-2020-251.yaml
+scalyr-agent-2 >= 2.1.10
+
+# Based on: PYSEC-2019-120
+# Source: https://github.com/pypa/advisory-database/scapy/PYSEC-2019-120.yaml
+scapy >= 2.4.1
+
+# Based on: PYSEC-2020-107, PYSEC-2020-108
+# Source: https://github.com/pypa/advisory-database/scikit-learn
+scikit-learn != 0.19.2
+scikit-learn != 0.23.1
+scikit-learn != 0.20rc1
+scikit-learn != 0.13
+scikit-learn != 0.18rc2
+scikit-learn != 0.16.0
+scikit-learn != 0.20.0
+scikit-learn != 0.20.3
+scikit-learn != 0.22.1
+scikit-learn != 0.15.2
+scikit-learn != 0.19.0
+scikit-learn != 0.21.1
+scikit-learn != 0.15.1
+scikit-learn != 0.22rc3
+scikit-learn != 0.23.2
+scikit-learn != 0.14
+scikit-learn != 0.15.0b1
+scikit-learn != 0.13.1
+scikit-learn != 0.17
+scikit-learn != 0.18
+scikit-learn != 0.22rc2.post1
+scikit-learn != 0.14.1
+scikit-learn != 0.18.1
+scikit-learn != 0.23.0
+scikit-learn != 0.22.2
+scikit-learn != 0.16.1
+scikit-learn != 0.22.2.post1
+scikit-learn != 0.17b1
+scikit-learn != 0.9
+scikit-learn != 0.21rc2
+scikit-learn != 0.20.2
+scikit-learn != 0.20.4
+scikit-learn != 0.21.2
+scikit-learn != 0.17.1
+scikit-learn != 0.19b2
+scikit-learn != 0.21.0
+scikit-learn != 0.20.1
+scikit-learn != 0.22
+scikit-learn != 0.14a1
+scikit-learn != 0.16b1
+scikit-learn != 0.12.1
+scikit-learn != 0.15.0
+scikit-learn != 0.18.2
+scikit-learn != 0.10
+scikit-learn != 0.21.3
+scikit-learn != 0.12
+scikit-learn != 0.11
+scikit-learn != 0.15.0b2
+scikit-learn != 0.19.1
+scikit-learn != 0.23.0rc1
+
+# Based on: PYSEC-2023-102
+# Source: https://github.com/pypa/advisory-database/scipy/PYSEC-2023-102.yaml
+scipy >= 1.10.0
+
+# Based on: PYSEC-2022-159
+# Source: https://github.com/pypa/advisory-database/scrapy/PYSEC-2022-159.yaml
+scrapy >= 2.6.1
+
+# Based on: PYSEC-2021-364
+# Source: https://github.com/pypa/advisory-database/scrapy-splash/PYSEC-2021-364.yaml
+scrapy-splash >= 0.8.0
+
+# Based on: PYSEC-2023-206
+# Source: https://github.com/pypa/advisory-database/selenium/PYSEC-2023-206.yaml
+selenium >= 4.14.0
+
+# Based on: PYSEC-2023-115
+# Source: https://github.com/pypa/advisory-database/sentry/PYSEC-2023-115.yaml
+sentry >= 23.6.2
+
+# Based on: PYSEC-2022-43012
+# Source: https://github.com/pypa/advisory-database/setuptools/PYSEC-2022-43012.yaml
+setuptools >= 65.5.1
+
+# Based on: PYSEC-2021-350
+# Source: https://github.com/pypa/advisory-database/shuup/PYSEC-2021-350.yaml
+shuup >= 2.11.0
+
+# Based on: PYSEC-2021-147
+# Source: https://github.com/pypa/advisory-database/sickrage/PYSEC-2021-147.yaml
+sickrage >= 10.0.12.dev1
+
+# Based on: PYSEC-2021-348
+# Source: https://github.com/pypa/advisory-database/simiki/PYSEC-2021-348.yaml
+simiki >= 1.6.2.2
+
+# Based on: PYSEC-2017-103
+# Source: https://github.com/pypa/advisory-database/sleekxmpp/PYSEC-2017-103.yaml
+sleekxmpp >= 1.3.2
+
+# Based on: PYSEC-2022-43013
+# Source: https://github.com/pypa/advisory-database/slixmpp/PYSEC-2022-43013.yaml
+slixmpp >= 1.8.3
+
+# Based on: PYSEC-2021-429
+# Source: https://github.com/pypa/advisory-database/slo-generator/PYSEC-2021-429.yaml
+slo-generator >= 2.0.1
+
+# Based on: PYSEC-2020-109
+# Source: https://github.com/pypa/advisory-database/snapcraft/PYSEC-2020-109.yaml
+snapcraft >= 2.43.1
+
+# Based on: PYSEC-2023-88
+# Source: https://github.com/pypa/advisory-database/snowflake-connector-python/PYSEC-2023-88.yaml
+snowflake-connector-python >= 3.0.2
+
+# Based on: PYSEC-2021-848
+# Source: https://github.com/pypa/advisory-database/sockeye/PYSEC-2021-848.yaml
+sockeye >= 2.3.24
+
+# Based on: PYSEC-2021-58
+# Source: https://github.com/pypa/advisory-database/sopel-plugins-channelmgnt/PYSEC-2021-58.yaml
+sopel-plugins-channelmgnt >= 2.0.1
+
+# No safe versions exist for sosreport!
+# See: https://github.com/pypa/advisory-database/sosreport
+sosreport < 0.0.0
+
+# No safe versions exist for spam!
+# See: https://github.com/pypa/advisory-database/spam
+spam < 0.0.0
+
+# Based on: PYSEC-2019-203
+# Source: https://github.com/pypa/advisory-database/splunk-sdk/PYSEC-2019-203.yaml
+splunk-sdk >= 1.6.6
+
+# Based on: PYSEC-2019-122
+# Source: https://github.com/pypa/advisory-database/sqla-yaml-fixtures/PYSEC-2019-122.yaml
+sqla-yaml-fixtures >= 1.0.0
+
+# Based on: PYSEC-2019-123
+# Source: https://github.com/pypa/advisory-database/sqlalchemy/PYSEC-2019-123.yaml
+sqlalchemy >= 1.2.18
+
+# Based on: PYSEC-2023-111
+# Source: https://github.com/pypa/advisory-database/sqlfluff/PYSEC-2023-111.yaml
+sqlfluff >= 2.1.2
+
+# No safe versions exist for sqlite-web!
+# See: https://github.com/pypa/advisory-database/sqlite-web
+sqlite-web < 0.0.0
+
+# Based on: PYSEC-2023-87
+# Source: https://github.com/pypa/advisory-database/sqlparse/PYSEC-2023-87.yaml
+sqlparse >= 0.4.4
+
+# Based on: PYSEC-2022-43014
+# Source: https://github.com/pypa/advisory-database/srp/PYSEC-2022-43014.yaml
+srp >= 1.0.17
+
+# Based on: PYSEC-2021-426
+# Source: https://github.com/pypa/advisory-database/starkbank-ecdsa/PYSEC-2021-426.yaml
+starkbank-ecdsa >= 2.0.1
+
+# Based on: PYSEC-2023-83
+# Source: https://github.com/pypa/advisory-database/starlette/PYSEC-2023-83.yaml
+starlette >= 0.27.0
+
+# Based on: PYSEC-2023-49
+# Source: https://github.com/pypa/advisory-database/starlite/PYSEC-2023-49.yaml
+starlite >= 1.51.2
+
+# Based on: PYSEC-2019-125
+# Source: https://github.com/pypa/advisory-database/steam/PYSEC-2019-125.yaml
+steam >= 2019-09-12
+
+# Based on: PYSEC-2022-248
+# Source: https://github.com/pypa/advisory-database/streamlit/PYSEC-2022-248.yaml
+streamlit >= 1.11.1
+
+# Based on: PYSEC-2013-32
+# Source: https://github.com/pypa/advisory-database/suds/PYSEC-2013-32.yaml
+suds >= 0.7.0
+
+# Based on: PYSEC-2013-33
+# Source: https://github.com/pypa/advisory-database/suds-py3/PYSEC-2013-33.yaml
+suds-py3 >= 1.4.4.1
+
+# Based on: PYSEC-2018-74
+# Source: https://github.com/pypa/advisory-database/superset/PYSEC-2018-74.yaml
+superset >= 0.23.0
+
+# Based on: PYSEC-2019-126
+# Source: https://github.com/pypa/advisory-database/supervisor/PYSEC-2019-126.yaml
+supervisor >= 4.0.3
+
+# Based on: PYSEC-2018-75
+# Source: https://github.com/pypa/advisory-database/suricata-update/PYSEC-2018-75.yaml
+suricata-update >= 1.0.0b1
+
+# Based on: PYSEC-2020-111
+# Source: https://github.com/pypa/advisory-database/svglib/PYSEC-2020-111.yaml
+svglib >= 0.9.4
+
+# Based on: PYSEC-2017-84
+# Source: https://github.com/pypa/advisory-database/swauth/PYSEC-2017-84.yaml
+swauth >= 1.3.0
+
+# Based on: PYSEC-2022-222
+# Source: https://github.com/pypa/advisory-database/systemds/PYSEC-2022-222.yaml
+systemds >= 2.2.2
+
+# Based on: PYSEC-2017-95
+# Source: https://github.com/pypa/advisory-database/tablib/PYSEC-2017-95.yaml
+tablib >= 0.11.5
+
+# No safe versions exist for temporai!
+# See: https://github.com/pypa/advisory-database/temporai
+temporai < 0.0.0
+
+# Based on: PYSEC-2021-60
+# Source: https://github.com/pypa/advisory-database/tenable-jira-cloud/PYSEC-2021-60.yaml
+tenable-jira-cloud >= 1.1.22
+
+# Based on: PYSEC-2020-112
+# Source: https://github.com/pypa/advisory-database/tendenci/PYSEC-2020-112.yaml
+tendenci >= 12.0.11
+
+# Based on: PYSEC-2021-389
+# Source: https://github.com/pypa/advisory-database/tensorflow/PYSEC-2021-389.yaml
+tensorflow >= 2.7.0
+
+# Based on: PYSEC-2022-101
+# Source: https://github.com/pypa/advisory-database/tensorflow-cpu/PYSEC-2022-101.yaml
+tensorflow-cpu >= 2.8.0
+
+# Based on: PYSEC-2022-156
+# Source: https://github.com/pypa/advisory-database/tensorflow-gpu/PYSEC-2022-156.yaml
+tensorflow-gpu >= 2.8.0
+
+# Based on: PYSEC-2021-97
+# Source: https://github.com/pypa/advisory-database/thefuck/PYSEC-2021-97.yaml
+thefuck >= 3.31
+
+# Based on: PYSEC-2020-142
+# Source: https://github.com/pypa/advisory-database/tink/PYSEC-2020-142.yaml
+tink >= 1.5.0
+
+# Based on: PYSEC-2022-187
+# Source: https://github.com/pypa/advisory-database/tkvideoplayer/PYSEC-2022-187.yaml
+tkvideoplayer >= 2.0.0
+
+# Based on: PYSEC-2017-96
+# Source: https://github.com/pypa/advisory-database/tlslite/PYSEC-2017-96.yaml
+tlslite >= 0.4.9
+
+# Based on: PYSEC-2020-143
+# Source: https://github.com/pypa/advisory-database/tlslite-ng/PYSEC-2020-143.yaml
+tlslite-ng >= 0.7.6
+
+# No safe versions exist for topydo!
+# See: https://github.com/pypa/advisory-database/topydo
+topydo < 0.0.0
+
+# Based on: PYSEC-2022-43015
+# Source: https://github.com/pypa/advisory-database/torch/PYSEC-2022-43015.yaml
+torch >= 1.13.1
+
+# Based on: PYSEC-2023-75
+# Source: https://github.com/pypa/advisory-database/tornado/PYSEC-2023-75.yaml
+tornado >= 6.3.2
+
+# Based on: PYSEC-2020-144
+# Source: https://github.com/pypa/advisory-database/tortoise-orm/PYSEC-2020-144.yaml
+tortoise-orm >= 0.16.6
+
+# Based on: PYSEC-2017-74
+# Source: https://github.com/pypa/advisory-database/tqdm/PYSEC-2017-74.yaml
+tqdm >= 4.11.2
+
+# Based on: PYSEC-2009-7
+# Source: https://github.com/pypa/advisory-database/trac/PYSEC-2009-7.yaml
+trac >= 0.11.6
+
+# Based on: PYSEC-2014-72
+# Source: https://github.com/pypa/advisory-database/transifex-client/PYSEC-2014-72.yaml
+transifex-client >= 0.11.0
+
+# Based on: PYSEC-2023-223
+# Source: https://github.com/pypa/advisory-database/transmute-core/PYSEC-2023-223.yaml
+transmute-core >= 1.13.5
+
+# Based on: PYSEC-2022-26
+# Source: https://github.com/pypa/advisory-database/treq/PYSEC-2022-26.yaml
+treq >= 22.1.0
+
+# Based on: PYSEC-2018-102
+# Source: https://github.com/pypa/advisory-database/tripleo-heat-templates/PYSEC-2018-102.yaml
+tripleo-heat-templates >= 8.0.3
+
+# Based on: PYSEC-2018-77
+# Source: https://github.com/pypa/advisory-database/tryton/PYSEC-2018-77.yaml
+tryton >= 5.0.1
+
+# Based on: PYSEC-2019-127
+# Source: https://github.com/pypa/advisory-database/trytond/PYSEC-2019-127.yaml
+trytond >= 5.0.6
+
+# Based on: PYSEC-2021-376
+# Source: https://github.com/pypa/advisory-database/tuf/PYSEC-2021-376.yaml
+tuf >= 0.19.0
+
+# Based on: PYSEC-2024-22
+# Source: https://github.com/pypa/advisory-database/tuitse-tsusin/PYSEC-2024-22.yaml
+tuitse-tsusin >= 1.3.2
+
+# Based on: PYSEC-2012-17
+# Source: https://github.com/pypa/advisory-database/tweepy/PYSEC-2012-17.yaml
+tweepy >= 2.3.1
+
+# Based on: PYSEC-2023-224
+# Source: https://github.com/pypa/advisory-database/twisted/PYSEC-2023-224.yaml
+twisted >= 23.10.0rc1
+
+# No safe versions exist for txaws!
+# See: https://github.com/pypa/advisory-database/txaws
+txaws < 0.0.0
+
+# Based on: PYSEC-2019-130
+# Source: https://github.com/pypa/advisory-database/typed-ast/PYSEC-2019-130.yaml
+typed-ast >= 1.3.2
+
+# Based on: PYSEC-2023-51
+# Source: https://github.com/pypa/advisory-database/ubi-reader/PYSEC-2023-51.yaml
+ubi-reader >= 0.8.5
+
+# Based on: PYSEC-2022-25
+# Source: https://github.com/pypa/advisory-database/ujson/PYSEC-2022-25.yaml
+ujson >= 5.1.0
+
+# Based on: PYSEC-2021-868
+# Source: https://github.com/pypa/advisory-database/unicorn/PYSEC-2021-868.yaml
+unicorn >= 2.0.0rc1
+
+# Based on: PYSEC-2019-213
+# Source: https://github.com/pypa/advisory-database/unoconv/PYSEC-2019-213.yaml
+unoconv >= 0.9.0
+
+# Based on: PYSEC-2022-243
+# Source: https://github.com/pypa/advisory-database/untangle/PYSEC-2022-243.yaml
+untangle >= 1.2.1
+
+# Based on: PYSEC-2023-212
+# Source: https://github.com/pypa/advisory-database/urllib3/PYSEC-2023-212.yaml
+urllib3 >= 2.0.7
+
+# Based on: PYSEC-2020-150
+# Source: https://github.com/pypa/advisory-database/uvicorn/PYSEC-2020-150.yaml
+uvicorn >= 0.11.7
+
+# Based on: PYSEC-2018-78
+# Source: https://github.com/pypa/advisory-database/uwsgi/PYSEC-2018-78.yaml
+uwsgi >= 2.0.17
+
+# Based on: PYSEC-2019-134
+# Source: https://github.com/pypa/advisory-database/validators/PYSEC-2019-134.yaml
+validators >= 0.12.6
+
+# Based on: PYSEC-2024-30
+# Source: https://github.com/pypa/advisory-database/vantage6/PYSEC-2024-30.yaml
+vantage6 >= 4.2.0
+
+# Based on: PYSEC-2024-33
+# Source: https://github.com/pypa/advisory-database/vantage6-node/PYSEC-2024-33.yaml
+vantage6-node >= 4.2.0
+
+# Based on: PYSEC-2024-34
+# Source: https://github.com/pypa/advisory-database/vantage6-server/PYSEC-2024-34.yaml
+vantage6-server >= 4.2.0
+
+# Based on: PYSEC-2021-853
+# Source: https://github.com/pypa/advisory-database/vault-cli/PYSEC-2021-853.yaml
+vault-cli >= 3.0.0
+
+# Based on: PYSEC-2011-23
+# Source: https://github.com/pypa/advisory-database/virtualenv/PYSEC-2011-23.yaml
+virtualenv >= 1.5
+
+# Based on: PYSEC-2022-267
+# Source: https://github.com/pypa/advisory-database/vncauthproxy/PYSEC-2022-267.yaml
+vncauthproxy >= 1.2.0
+
+# Based on: PYSEC-2022-255
+# Source: https://github.com/pypa/advisory-database/vtk/PYSEC-2022-255.yaml
+vtk >= 9.0.1
+
+# Based on: PYSEC-2023-191
+# Source: https://github.com/pypa/advisory-database/vyper/PYSEC-2023-191.yaml
+vyper >= 0.3.10
+
+# Based on: PYSEC-2023-219
+# Source: https://github.com/pypa/advisory-database/wagtail/PYSEC-2023-219.yaml
+wagtail >= 5.1.3
+
+# Based on: PYSEC-2020-219
+# Source: https://github.com/pypa/advisory-database/wagtail-2fa/PYSEC-2020-219.yaml
+wagtail-2fa >= 1.4.1
+
+# Based on: PYSEC-2022-205
+# Source: https://github.com/pypa/advisory-database/waitress/PYSEC-2022-205.yaml
+waitress >= 2.1.2
+
+# Based on: PYSEC-2021-320
+# Source: https://github.com/pypa/advisory-database/wasmtime/PYSEC-2021-320.yaml
+wasmtime >= 0.30.0
+
+# Based on: PYSEC-2020-156
+# Source: https://github.com/pypa/advisory-database/webargs/PYSEC-2020-156.yaml
+webargs >= 5.5.3
+
+# Based on: PYSEC-2022-162
+# Source: https://github.com/pypa/advisory-database/weblate/PYSEC-2022-162.yaml
+weblate >= 4.11.1
+
+# Based on: PYSEC-2021-95
+# Source: https://github.com/pypa/advisory-database/websockets/PYSEC-2021-95.yaml
+websockets >= 9.1
+
+# Based on: PYSEC-2023-221
+# Source: https://github.com/pypa/advisory-database/werkzeug/PYSEC-2023-221.yaml
+werkzeug >= 3.0.1
+
+# No safe versions exist for wger!
+# See: https://github.com/pypa/advisory-database/wger
+wger < 0.0.0
+
+# Based on: PYSEC-2022-43017
+# Source: https://github.com/pypa/advisory-database/wheel/PYSEC-2022-43017.yaml
+wheel >= 0.38.1
+
+# Based on: PYSEC-2024-18
+# Source: https://github.com/pypa/advisory-database/whoogle-search/PYSEC-2024-18.yaml
+whoogle-search >= 0.8.4
+
+# Based on: PYSEC-2021-850
+# Source: https://github.com/pypa/advisory-database/wiki/PYSEC-2021-850.yaml
+wiki >= 0.7.9
+
+# Based on: PYSEC-2022-43018
+# Source: https://github.com/pypa/advisory-database/wsgidav/PYSEC-2022-43018.yaml
+wsgidav >= 4.1.0
+
+# Based on: PYSEC-2023-116
+# Source: https://github.com/pypa/advisory-database/xalpha/PYSEC-2023-116.yaml
+xalpha >= 0.11.9
+
+# No safe versions exist for xml2dict!
+# See: https://github.com/pypa/advisory-database/xml2dict
+xml2dict < 0.0.0
+
+# Based on: PYSEC-2020-158
+# Source: https://github.com/pypa/advisory-database/xmpp-http-upload/PYSEC-2020-158.yaml
+xmpp-http-upload >= 0.4.0
+
+# Based on: PYSEC-2021-119
+# Source: https://github.com/pypa/advisory-database/yamale/PYSEC-2021-119.yaml
+yamale >= 3.0.8
+
+# No safe versions exist for ymlref!
+# See: https://github.com/pypa/advisory-database/ymlref
+ymlref < 0.0.0
+
+# Based on: PYSEC-2010-27
+# Source: https://github.com/pypa/advisory-database/zodb3/PYSEC-2010-27.yaml
+zodb3 >= 3.10.0a1
+
+# Based on: PYSEC-2023-193
+# Source: https://github.com/pypa/advisory-database/zope/PYSEC-2023-193.yaml
+zope >= 5.8.6
+
+# Based on: PYSEC-2014-73
+# Source: https://github.com/pypa/advisory-database/zope2/PYSEC-2014-73.yaml
+zope2 >= 2.13.19
+
+# No safe versions exist for zstd!
+# See: https://github.com/pypa/advisory-database/zstd
+zstd < 0.0.0
+
