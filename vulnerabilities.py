@@ -18,7 +18,7 @@ class Vulnerabilities:
         self, package: str, identifier: str, source: str, versions: list, fixes: list
     ) -> None:
         """Add a package vulnerability."""
-        self._log.info("Adding package: %s -- vulnerability: %s", package, identifier)
+        self._log.debug("Adding package: %s -- vulnerability: %s", package, identifier)
 
         # Store vulnerability metadata as list of dicts.
         if package not in self._vulnerabilities:
